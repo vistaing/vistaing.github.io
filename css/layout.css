@@ -1,7 +1,14 @@
 @charset "utf-8"; 
 
-.head {
-    height: auto;
+.logo {
+    height: 250px;
+    background-image: url(../pics/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hide_h {
+    visibility: hidden;
 }
 
 .subnav {
