@@ -1,0 +1,10 @@
+@charset "utf-8"; 
+
+.head {
+    height: auto;
+}
+
+.subnav {
+    height: 50px;
+    line-height: 50px;
+}
