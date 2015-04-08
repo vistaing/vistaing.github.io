@@ -3,30 +3,27 @@
 
     "use strict";
 
-    var Animations;
-
-    UI.component('switcher', {
+    UI.component('tab', {
 
         defaults: {
-            connect   : false,
-            toggle    : ">*",
-            active    : 0,
-            animation : false,
-            duration  : 200
+            'target'    : '>li:not(.uk-tab-responsive, .uk-disabled)',
+            'connect'   : false,
+            'active'    : 0,
+            'animation' : false,
+            'duration'  : 200
         },
-
-        animating: false,
 
         boot: function() {
 
             // init code
             UI.ready(function(context) {
 
-                UI.$("[data-uk-switcher]", context).each(function() {
-                    var switcher = UI.$(this);
+                UI.$("[data-uk-tab]", context).each(function() {
 
-                    if (!switcher.data("switcher")) {
-                        var obj = UI.switcher(switcher, UI.Utils.options(switcher.attr("data-uk-switcher")));
+                    var tab = UI.$(this);
+
+                    if (!tab.data("tab")) {
+                        var obj = UI.tab(tab, UI.Utils.options(tab.attr("data-uk-tab")));
                     }
                 });
             });
@@ -36,244 +33,113 @@
 
             var $this = this;
 
-            this.on("click.uikit.switcher", this.options.toggle, function(e) {
+            this.on("click.uikit.tab", this.options.target, function(e) {
                 e.preventDefault();
-                $this.show(this);
+
+                if ($this.switcher && $this.switcher.animating) {
+                    return;
+                }
+
+                $this.find($this.options.target).not(this).removeClass("uk-active").blur();
+                $this.trigger("change.uk.tab", [UI.$(this).addClass("uk-active")]);
             });
 
             if (this.options.connect) {
-
                 this.connect = UI.$(this.options.connect);
+            }
 
-                this.connect.find(".uk-active").removeClass(".uk-active");
+            // init responsive tab
+            this.responsivetab = UI.$('<li class="uk-tab-responsive uk-active"><a></a></li>').append('<div class="uk-dropdown uk-dropdown-small"><ul class="uk-nav uk-nav-dropdown"></ul><div>');
 
-                // delegate switch commands within container content
-                if (this.connect.length) {
+            this.responsivetab.dropdown = this.responsivetab.find('.uk-dropdown');
+            this.responsivetab.lst      = this.responsivetab.dropdown.find('ul');
+            this.responsivetab.caption  = this.responsivetab.find('a:first');
 
-                    this.connect.on("click", '[data-uk-switcher-item]', function(e) {
+            if (this.element.hasClass("uk-tab-bottom")) this.responsivetab.dropdown.addClass("uk-dropdown-up");
 
-                        e.preventDefault();
+            // handle click
+            this.responsivetab.lst.on('click.uikit.tab', 'a', function(e) {
 
-                        var item = UI.$(this).attr('data-uk-switcher-item');
+                e.preventDefault();
+                e.stopPropagation();
 
-                        if ($this.index == item) return;
+                var link = UI.$(this);
 
-                        switch(item) {
-                            case 'next':
-                            case 'previous':
-                                $this.show($this.index + (item=='next' ? 1:-1));
-                                break;
-                            default:
-                                $this.show(parseInt(item, 10));
-                        }
-                    }).on('swipeRight swipeLeft', function(e) {
-                        e.preventDefault();
-                        $this.show($this.index + (e.type == 'swipeLeft' ? 1 : -1));
-                    });
-                }
+                $this.element.children(':not(.uk-tab-responsive)').eq(link.data('index')).trigger('click');
+            });
 
-                var toggles = this.find(this.options.toggle),
-                    active  = toggles.filter(".uk-active");
+            this.on('show.uk.switcher change.uk.tab', function(e, tab) {
+                $this.responsivetab.caption.html(tab.text());
+            });
 
-                if (active.length) {
-                    this.show(active, false);
-                } else {
+            this.element.append(this.responsivetab);
 
-                    if (this.options.active===false) return;
-
-                    active = toggles.eq(this.options.active);
-                    this.show(active.length ? active : toggles.eq(0), false);
-                }
-
-                this.on('changed.uk.dom', function() {
-                    $this.connect = UI.$($this.options.connect);
+            // init UIkit components
+            if (this.options.connect) {
+                this.switcher = UI.switcher(this.element, {
+                    "toggle"    : ">li:not(.uk-tab-responsive)",
+                    "connect"   : this.options.connect,
+                    "active"    : this.options.active,
+                    "animation" : this.options.animation,
+                    "duration"  : this.options.duration
                 });
             }
 
+            UI.dropdown(this.responsivetab, {"mode": "click"});
+
+            // init
+            $this.trigger("change.uk.tab", [this.element.find(this.options.target).filter('.uk-active')]);
+
+            this.check();
+
+            UI.$win.on('resize orientationchange', UI.Utils.debounce(function(){
+                if ($this.element.is(":visible"))  $this.check();
+            }, 100));
+
+            this.on('display.uk.check', function(){
+                if ($this.element.is(":visible"))  $this.check();
+            });
         },
 
-        show: function(tab, animate) {
+        check: function() {
 
-            if (this.animating) {
-                return;
-            }
+            var children = this.element.children(':not(.uk-tab-responsive)').removeClass('uk-hidden');
 
-            if (isNaN(tab)) {
-                tab = UI.$(tab);
-            } else {
+            if (!children.length) return;
 
-                var toggles = this.find(this.options.toggle);
+            var top          = (children.eq(0).offset().top + Math.ceil(children.eq(0).height()/2)),
+                doresponsive = false,
+                item, link;
 
-                tab = tab < 0 ? toggles.length-1 : tab;
-                tab = toggles.eq(toggles[tab] ? tab : 0);
-            }
+            this.responsivetab.lst.empty();
 
-            var $this     = this,
-                active    = UI.$(tab),
-                animation = Animations[this.options.animation] || function(current, next) {
+            children.each(function(){
 
-                    if (!$this.options.animation) {
-                        return Animations.none.apply($this);
-                    }
-
-                    var anim = $this.options.animation.split(',');
-
-                    if (anim.length == 1) {
-                        anim[1] = anim[0];
-                    }
-
-                    anim[0] = anim[0].trim();
-                    anim[1] = anim[1].trim();
-
-                    return coreAnimation.apply($this, [anim, current, next]);
-                };
-
-            if (animate===false || !UI.support.animation) {
-                animation = Animations.none;
-            }
-
-            if (active.hasClass("uk-disabled")) return;
-
-            this.find(this.options.toggle).filter(".uk-active").removeClass("uk-active");
-            active.addClass("uk-active");
-
-            if (this.options.connect && this.connect.length) {
-
-                this.index = this.find(this.options.toggle).index(active);
-
-                if (this.index == -1 ) {
-                    this.index = 0;
+                if (UI.$(this).offset().top > top) {
+                    doresponsive = true;
                 }
+            });
 
-                this.connect.each(function() {
+            if (doresponsive) {
 
-                    var container = UI.$(this),
-                        children  = UI.$(container.children()),
-                        current   = UI.$(children.filter('.uk-active')),
-                        next      = UI.$(children.eq($this.index));
+                for (var i = 0; i < children.length; i++) {
 
-                        $this.animating = true;
+                    item = UI.$(children.eq(i));
+                    link = item.find('a');
 
-                        animation.apply($this, [current, next]).then(function(){
+                    if (item.css('float') != 'none' && !item.attr('uk-dropdown')) {
 
-                            current.removeClass("uk-active");
-                            next.addClass("uk-active");
-                            UI.Utils.checkDisplay(next, true);
+                        item.addClass('uk-hidden');
 
-                            $this.animating = false;
-                        });
-                });
+                        if (!item.hasClass('uk-disabled')) {
+                            this.responsivetab.lst.append('<li><a href="'+link.attr('href')+'" data-index="'+i+'">'+link.html()+'</a></li>');
+                        }
+                    }
+                }
             }
 
-            this.trigger("show.uk.switcher", [active]);
+            this.responsivetab[this.responsivetab.lst.children().length ? 'removeClass':'addClass']('uk-hidden');
         }
     });
-
-    Animations = {
-
-        'none': function() {
-            var d = UI.$.Deferred();
-            d.resolve();
-            return d.promise();
-        },
-
-        'fade': function(current, next) {
-            return coreAnimation.apply(this, ['uk-animation-fade', current, next]);
-        },
-
-        'slide-bottom': function(current, next) {
-            return coreAnimation.apply(this, ['uk-animation-slide-bottom', current, next]);
-        },
-
-        'slide-top': function(current, next) {
-            return coreAnimation.apply(this, ['uk-animation-slide-top', current, next]);
-        },
-
-        'slide-vertical': function(current, next, dir) {
-
-            var anim = ['uk-animation-slide-top', 'uk-animation-slide-bottom'];
-
-            if (current && current.index() > next.index()) {
-                anim.reverse();
-            }
-
-            return coreAnimation.apply(this, [anim, current, next]);
-        },
-
-        'slide-left': function(current, next) {
-            return coreAnimation.apply(this, ['uk-animation-slide-left', current, next]);
-        },
-
-        'slide-right': function(current, next) {
-            return coreAnimation.apply(this, ['uk-animation-slide-right', current, next]);
-        },
-
-        'slide-horizontal': function(current, next, dir) {
-
-            var anim = ['uk-animation-slide-right', 'uk-animation-slide-left'];
-
-            if (current && current.index() > next.index()) {
-                anim.reverse();
-            }
-
-            return coreAnimation.apply(this, [anim, current, next]);
-        },
-
-        'scale': function(current, next) {
-            return coreAnimation.apply(this, ['uk-animation-scale-up', current, next]);
-        }
-    };
-
-    UI.switcher.animations = Animations;
-
-
-    // helpers
-
-    function coreAnimation(cls, current, next) {
-
-        var d = UI.$.Deferred(), clsIn = cls, clsOut = cls, release;
-
-        if (next[0]===current[0]) {
-            d.resolve();
-            return d.promise();
-        }
-
-        if (typeof(cls) == 'object') {
-            clsIn  = cls[0];
-            clsOut = cls[1] || cls[0];
-        }
-
-        release = function() {
-
-            if (current) current.hide().removeClass('uk-active '+clsOut+' uk-animation-reverse');
-
-            next.addClass(clsIn).one(UI.support.animation.end, function() {
-
-                next.removeClass(''+clsIn+'').css({opacity:'', display:''});
-
-                d.resolve();
-
-                if (current) current.css({opacity:'', display:''});
-
-            }.bind(this)).show();
-        };
-
-        next.css('animation-duration', this.options.duration+'ms');
-
-        if (current && current.length) {
-
-            current.css('animation-duration', this.options.duration+'ms');
-
-            current.css('display', 'none').addClass(clsOut+' uk-animation-reverse').one(UI.support.animation.end, function() {
-                release();
-            }.bind(this)).css('display', '');
-
-        } else {
-            next.addClass('uk-active');
-            release();
-        }
-
-        return d.promise();
-    }
 
 })(UIkit);
