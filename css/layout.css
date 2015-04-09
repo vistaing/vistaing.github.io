@@ -1,10 +1,12 @@
 @charset "utf-8"; 
 
-.logo {
+.mainlogo {
     height: 250px;
+    line-height: 250px;
+    text-align: center; /*
     background-image: url(../pics/logo.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
 }
 
 .hide_h {
@@ -15,3 +17,4 @@
     height: 50px;
     line-height: 50px;
 }
+
