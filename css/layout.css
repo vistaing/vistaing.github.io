@@ -1,5 +1,10 @@
 @charset "utf-8"; 
 
+body {
+    font-family: Microsoft YaHei;
+    font-size: 12px;
+}
+
 .mainlogo {
     height: 250px;
     line-height: 250px;
