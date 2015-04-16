@@ -27,3 +27,21 @@ body {
 .calendar-height {
     height: 60px;
 }
+
+.height {
+    height: 30px;
+}
+
+.foot1 {
+    float: left;
+}
+
+.foot2 {
+    float: left;
+    height: 80px;
+    line-height: 80px;
+}
+
+footer a {
+    color: dimgray;
+}
