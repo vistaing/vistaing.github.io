@@ -54,3 +54,19 @@ h2 {
     font-family: Microsoft YaHei;
     color: dimgray;
 }
+
+.badge-iqiyi {
+    /* display: inline-block; */
+    padding: 0 5px;
+    background: #87c21a;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
