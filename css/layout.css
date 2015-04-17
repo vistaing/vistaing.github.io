@@ -20,6 +20,10 @@ body {
     line-height: 50px;
 }
 
+.gap {
+    height: 40px;
+}
+
 .calendar {
     table-layout: fixed;
 }
