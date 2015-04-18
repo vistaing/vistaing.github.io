@@ -70,3 +70,123 @@ h2 {
     border-radius: 2px;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
 }
+
+.badge-bili {
+    padding: 0 5px;
+    background: #00baff;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.badge-letv {
+    padding: 0 5px;
+    background: #ff6363;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.badge-matong {
+    padding: 0 5px;
+    background: #f6c501;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.badge-pptv {
+    padding: 0 5px;
+    background: #00a2ff;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.badge-tx {
+    padding: 0 5px;
+    background: #09db80;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.badge-tudou {
+    padding: 0 5px;
+    background: #ff8a00;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.badge-youku {
+    padding: 0 5px;
+    background: #10d4e6;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.badge-bad {
+    padding: 0 5px;
+    background: #9a9a9a;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 14px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: none;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 2px;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
