@@ -19,6 +19,7 @@
         <script src="js/jquery.js"></script>
         <script src="js/uikit.min.js"></script>
         <script src="js/core/switcher.js"></script>
+        <script src="js/core/modal.js"></script>
         <script src="js/core/smooth-scroll.js"></script>
     </head>
     <body>
@@ -131,6 +132,7 @@
                     </tr>
                 </tbody>
             </table>
+            <div class="gap"></div>
             <blockquote>周一</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
@@ -142,7 +144,7 @@
                 </thead>
                 <tbody>
                     <tr class="uk-table-middle">
-                        <td class="uk-width-5-10" id="bgm0101">怪盗Joker 第二季<br><i class="uk-text-muted">怪盗ジョーカー</i></td>
+                        <td class="uk-width-5-10" class="uk-button" data-uk-modal="{target:'#0101'}">怪盗Joker 第二季<br><i class="uk-text-muted">怪盗ジョーカー</i></td>
                         <td class="uk-width-1-10">02 <span class="uk-text-muted">/ 13</span></td>
                         <td class="uk-width-4-10"><a href="http://www.iqiyi.com/v_19rrnl5ink.html" target="_blank"><span class="badge-iqiyi">爱奇艺</span></a> | <a href="http://www.bilibili.com/video/av2216609/" target="_blank"><span class="badge-bili">Bilibili</span></a></td>
                     </tr>
@@ -309,7 +311,7 @@
                     <tr class="uk-table-middle">
                         <td class="uk-width-5-10" id="bgm0608">终结的炽天使<br><i class="uk-text-muted">終わりのセラフ</i></td>
                         <td class="uk-width-1-10">03 <span class="uk-text-muted">/ 24</span></td>
-                        <td class="uk-width-4-10"><a href="http://www.bilibili.com/video/av2232152/" target="_blank"><span class="badge-bili">Bilibili</span></a> | <a href="http://www.letv.com/ptv/vplay/22544175.html" target="_blank"><span class="badge-letv">乐视</span></a> | <a href="http://www.hunantv.com/v/7/109724/f/1137882.html" target="_blank"><span class="badge-matong">芒果TV</span></a> | <a href="http://v.pptv.com/show/UicMiaoQlv3x2AicmY.html" target="_blank"><span class="badge-pptv">PPTV</span></a> | <a href="http://v.qq.com/cover/i/izsh50sm4ysz5j5/o0016behewf.html" target="_blank"><span class="badge-tx">腾讯</span></a> | <a href="http://www.tudou.com/albumplay/oGlXUbsk0Hw/eGaGP08HUc0.html" target="_blank"><span class="badge-tudou">土豆</span></a> | <a href="http://v.youku.com/v_show/id_XOTM2NTI4MDMy.html" target="_blank"><span class="badge-youku">优酷</span></a></td>
+                        <td class="uk-width-4-10"><a href="http://www.bilibili.com/video/av2232152/" target="_blank"><span class="badge-bili">Bilibili</span></a> | <a href="http://www.letv.com/ptv/vplay/22544175.html" target="_blank"><span class="badge-letv">乐视</span></a> | <a href="http://www.hunantv.com/v/7/109724/f/1500975.html" target="_blank"><span class="badge-matong">芒果TV</span></a> | <a href="http://v.pptv.com/show/UicMiaoQlv3x2AicmY.html" target="_blank"><span class="badge-pptv">PPTV</span></a> | <a href="http://v.qq.com/cover/i/izsh50sm4ysz5j5/o0016behewf.html" target="_blank"><span class="badge-tx">腾讯</span></a> | <a href="http://www.tudou.com/albumplay/oGlXUbsk0Hw/eGaGP08HUc0.html" target="_blank"><span class="badge-tudou">土豆</span></a> | <a href="http://v.youku.com/v_show/id_XOTM2NTI4MDMy.html" target="_blank"><span class="badge-youku">优酷</span></a></td>
                     </tr>
                     <tr class="uk-table-middle">
                         <td class="uk-width-5-10" id="bgm0609">在地下城寻求邂逅是否搞错了什么<br><i class="uk-text-muted">ダンジョンに出会いを求めるのは間違っているだろうか</i></td>
@@ -412,6 +414,12 @@
                     </tr>
                 </tbody>
             </table>
+        </div>
+        <div id="0101" class="uk-modal">
+            <div class="uk-modal-dialog">
+                <a class="uk-modal-close uk-close"></a>
+                ...
+            </div>
         </div>
         <footer class="uk-container uk-container-center">
             <hr>
