@@ -32,6 +32,14 @@ body {
     height: 60px;
 }
 
+th a {
+    color: dimgray;
+}
+
+th a:hover {
+    color: dodgerblue;
+}
+
 .height {
     height: 30px;
 }
