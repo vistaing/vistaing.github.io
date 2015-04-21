@@ -206,10 +206,10 @@ h2 {
 
 .bgminfo {
     font-size: 12px;
-    line-height: 12px;
+    line-height: 16px;
 }
 
 .bgminfo p {
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
