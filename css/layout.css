@@ -38,6 +38,15 @@ body {
     table-layout: fixed;
 }
 
+@media (max-width: 700px) {
+table.calendar {
+    display: none;
+}
+.gap {
+    display: none;
+}
+}
+
 .calendar-height {
     height: 60px;
 }
