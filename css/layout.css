@@ -73,13 +73,17 @@ h2 {
     color: dimgray;
 }
 
+.uk-width-4-10 {
+    line-height: 32px;
+}
+
 .badge-iqiyi {
-    /* display: inline-block; */
+    display: inline-block;
     padding: 0 5px;
     background: #87c21a;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -90,11 +94,12 @@ h2 {
 }
 
 .badge-bili {
+    display: inline-block;
     padding: 0 5px;
     background: #00baff;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -105,11 +110,12 @@ h2 {
 }
 
 .badge-letv {
+    display: inline-block;
     padding: 0 5px;
     background: #ff6363;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -120,11 +126,12 @@ h2 {
 }
 
 .badge-matong {
+    display: inline-block;
     padding: 0 5px;
     background: #f6c501;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -135,11 +142,12 @@ h2 {
 }
 
 .badge-pptv {
+    display: inline-block;
     padding: 0 5px;
     background: #00a2ff;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -150,11 +158,12 @@ h2 {
 }
 
 .badge-tx {
+    display: inline-block;
     padding: 0 5px;
     background: #09db80;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -165,11 +174,12 @@ h2 {
 }
 
 .badge-tudou {
+    display: inline-block;
     padding: 0 5px;
     background: #ff8a00;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -180,11 +190,12 @@ h2 {
 }
 
 .badge-youku {
+    display: inline-block;
     padding: 0 5px;
     background: #10d4e6;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
@@ -195,11 +206,12 @@ h2 {
 }
 
 .badge-bad {
+    display: inline-block;
     padding: 0 5px;
     background: #9a9a9a;
     font-size: 10px;
     font-weight: bold;
-    line-height: 14px;
+    line-height: 22px;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
