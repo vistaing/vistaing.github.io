@@ -6,13 +6,18 @@ body {
 }
 
 .mainlogo {
-    height: 250px;
-    line-height: 250px;
+    /*height: 250px;
+    line-height: 250px; */
     text-align: center;
 }
 
+.logo {
+    margin: 0;
+    padding: 0;
+}
+
 .hide_h {
-    visibility: hidden;
+    display: none;
 }
 
 .navfont {
