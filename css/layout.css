@@ -30,6 +30,11 @@ body {
     line-height: 50px;
 }
 
+/*.top {
+    line-height: 41px;
+    width: 40px;
+}*/
+
 .gap {
     height: 40px;
 }
@@ -38,7 +43,7 @@ body {
     table-layout: fixed;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 767px) {
 table.calendar {
     display: none;
 }
@@ -63,7 +68,7 @@ th a:hover {
     height: 30px;
 }
 
-.foot1 {
+/*.foot1 {
     float: left;
 }
 
@@ -71,7 +76,7 @@ th a:hover {
     float: left;
     height: 80px;
     line-height: 80px;
-}
+}*/
 
 footer a {
     color: dimgray;
@@ -82,7 +87,7 @@ h2 {
     color: dimgray;
 }
 
-.uk-width-4-10 {
+.uk-width-2-6 {
     line-height: 32px;
 }
 
@@ -238,4 +243,53 @@ h2 {
 .bgminfo p {
     margin-top: 6px;
     margin-bottom: 6px;
+}
+
+.cd-top {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+    background: rgba(0, 180, 255, 0.8) url(../pics/cd-top-arrow.svg) no-repeat center 50%;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.cd-top.cd-is-visible {
+    visibility: visible;
+    opacity: 1;
+}
+
+.cd-top.cd-fade-out {
+    opacity: .5;
+}
+
+.no-touch .cd-top:hover {
+    background-color: #00b4ff;
+    opacity: 1;
+}
+
+@media only screen and (min-width: 768px) {
+.cd-top {
+    right: 20px;
+    bottom: 20px;
+}
+}
+
+@media only screen and (min-width: 1024px) {
+.cd-top {
+    height: 60px;
+    width: 60px;
+    right: 30px;
+    bottom: 30px;
+}
 }
