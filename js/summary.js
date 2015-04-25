@@ -678,3 +678,4 @@
 
 })(UIkit);
 
+$("img").lazyload(); 
