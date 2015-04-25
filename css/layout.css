@@ -293,3 +293,9 @@ h2 {
     bottom: 30px;
 }
 }
+
+@media (max-width: 767px) {
+.uk-modal {
+    display: none;
+}
+}
