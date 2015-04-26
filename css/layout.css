@@ -2,7 +2,7 @@
 
 body {
     font-family: Microsoft YaHei;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .mainlogo {
@@ -22,18 +22,13 @@ body {
 
 .navfont {
     font-family: Microsoft YaHei;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .subnav {
     height: 50px;
     line-height: 50px;
 }
-
-/*.top {
-    line-height: 41px;
-    width: 40px;
-}*/
 
 .gap {
     height: 40px;
@@ -95,7 +90,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #87c21a;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -111,7 +106,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #00baff;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -127,7 +122,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #ff6363;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -143,7 +138,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #f6c501;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -159,7 +154,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #00a2ff;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -175,7 +170,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #09db80;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -191,7 +186,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #ff8a00;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -207,7 +202,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #10d4e6;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
@@ -223,7 +218,7 @@ h2 {
     display: inline-block;
     padding: 0 5px;
     background: #9a9a9a;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     line-height: 22px;
     color: #ffffff;
