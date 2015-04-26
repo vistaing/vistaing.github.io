@@ -231,13 +231,13 @@ h2 {
 }
 
 .bgminfo {
-    font-size: 12px;
-    line-height: 16px;
+    font-size: 14px;
+    line-height: 18px;
 }
 
 .bgminfo p {
-    margin-top: 6px;
-    margin-bottom: 6px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .cd-top {
