@@ -1,7 +1,7 @@
 @charset "utf-8"; 
 
 body {
-    font-family: Microsoft YaHei;
+    font-family: 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif!important;
     font-size: 14px;
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 .navfont {
-    font-family: Microsoft YaHei;
+    font-family: 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif!important;
     font-size: 14px;
 }
 
@@ -78,7 +78,7 @@ footer a {
 }
 
 h2 {
-    font-family: Microsoft YaHei;
+    font-family: 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif!important;
     color: dimgray;
 }
 
