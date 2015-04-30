@@ -38,6 +38,10 @@ body {
     table-layout: fixed;
 }
 
+.calendar td a:link {
+    color: dimgray;
+}
+
 @media (max-width: 767px) {
 table.calendar {
     display: none;
