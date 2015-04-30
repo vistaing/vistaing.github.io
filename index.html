@@ -51,20 +51,33 @@
         </div>
         <div class="gap"></div>
         <div class="uk-container uk-container-center">
+            <span class="calhr"><hr /></span>
             <table class="uk-table uk-table-striped calendar">
                 <thead>
                     <tr>
-                        <th>周一</th>
-                        <th>周二</th>
-                        <th>周三</th>
-                        <th>周四</th>
-                        <th>周五</th>
-                        <th>周六</th>
-                        <th>周日</th>
+                        <th class="uk-text-top"><a href="#mon" data-uk-smooth-scroll>周一</a>&nbsp;&nbsp;<span class="today" id="tw1">今日</span></th>
+                        <th class="uk-text-top"><a href="#tue" data-uk-smooth-scroll>周二</a>&nbsp;&nbsp;<span class="today" id="tw2">今日</span></th>
+                        <th class="uk-text-top"><a href="#wed" data-uk-smooth-scroll>周三</a>&nbsp;&nbsp;<span class="today" id="tw3">今日</span></th>
+                        <th class="uk-text-top"><a href="#thu" data-uk-smooth-scroll>周四</a>&nbsp;&nbsp;<span class="today" id="tw4">今日</span></th>
+                        <th class="uk-text-top"><a href="#fri" data-uk-smooth-scroll>周五</a>&nbsp;&nbsp;<span class="today" id="tw5">今日</span></th>
+                        <th class="uk-text-top"><a href="#sat" data-uk-smooth-scroll>周六</a>&nbsp;&nbsp;<span class="today" id="tw6">今日</span></th>
+                        <th class="uk-text-top"><a href="#sun" data-uk-smooth-scroll>周日</a>&nbsp;&nbsp;<span class="today" id="tw7">今日</span></th>
                     </tr>
                 </thead>
+                <script type="text/javascript">
+                    var d=new Date()
+                    var weekday=new Array(7)
+                    weekday[1]="tw1"
+                    weekday[2]="tw2"
+                    weekday[3]="tw3"
+                    weekday[4]="tw4"
+                    weekday[5]="tw5"
+                    weekday[6]="tw6"
+                    weekday[7]="tw7"
+                    document.getElementById(weekday[d.getDay()]).style.display="inline-block"
+                </script>
                 <tbody>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td><a href="#bgm0101" data-uk-smooth-scroll>怪盗Joker 第二季</a></td>
                         <td><a href="#bgm0201" data-uk-smooth-scroll>Hello!!黄金拼图</a></td>
                         <td><a href="#bgm0301" data-uk-smooth-scroll>吹响！上低音号</a></td>
@@ -73,7 +86,7 @@
                         <td><a href="#bgm0601" data-uk-smooth-scroll>电波教师</a></td>
                         <td><a href="#bgm0701" data-uk-smooth-scroll>Fate/stay night [UBW] 第二季</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td><a href="#bgm0102" data-uk-smooth-scroll>境界之轮回</a></td>
                         <td><a href="#bgm0202" data-uk-smooth-scroll>女高网球部 4期</a></td>
                         <td><a href="#bgm0302" data-uk-smooth-scroll>银魂°</a></td>
@@ -82,7 +95,7 @@
                         <td><a href="#bgm0602" data-uk-smooth-scroll>魔法少女奈叶ViVid</a></td>
                         <td><a href="#bgm0702" data-uk-smooth-scroll>歌之王子殿下 真爱革命</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td><a href="#bgm0103" data-uk-smooth-scroll>山田君与7人魔女</a></td>
                         <td><a href="#bgm0203" data-uk-smooth-scroll>我是高宫茄乃</a></td>
                         <td><a href="#bgm0303" data-uk-smooth-scroll>摸索吧！部活剧 第三季</a></td>
@@ -91,7 +104,7 @@
                         <td><a href="#bgm0603" data-uk-smooth-scroll>枪神斯托拉塔斯</a></td>
                         <td><a href="#bgm0703" data-uk-smooth-scroll>攻壳机动队ARISE</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td><a href="#bgm0104" data-uk-smooth-scroll>网球优等生</a></td>
                         <td></td>
                         <td></td>
@@ -100,7 +113,7 @@
                         <td><a href="#bgm0604" data-uk-smooth-scroll>食戟之灵</a></td>
                         <td><a href="#bgm0704" data-uk-smooth-scroll>圣斗士星矢 黄金魂</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td></td>
                         <td></td>
                         <td></td>
@@ -109,7 +122,7 @@
                         <td><a href="#bgm0605" data-uk-smooth-scroll>小长门有希的消失</a></td>
                         <td><a href="#bgm0705" data-uk-smooth-scroll>血界战线</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td></td>
                         <td></td>
                         <td></td>
@@ -118,7 +131,7 @@
                         <td><a href="#bgm0606" data-uk-smooth-scroll>希德尼娅的骑士 第九行星战役</a></td>
                         <td><a href="#bgm0706" data-uk-smooth-scroll>亚尔斯兰战记</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td></td>
                         <td></td>
                         <td></td>
@@ -127,7 +140,7 @@
                         <td><a href="#bgm0607" data-uk-smooth-scroll>吸血鬼福尔摩斯</a></td>
                         <td><a href="#bgm0707" data-uk-smooth-scroll>雨色可可</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td></td>
                         <td></td>
                         <td></td>
@@ -136,7 +149,7 @@
                         <td><a href="#bgm0608" data-uk-smooth-scroll>终结的炽天使</a></td>
                         <td><a href="#bgm0708" data-uk-smooth-scroll>钻石王牌 第二季</a></td>
                     </tr>
-                    <tr class="calendar-height">
+                    <tr class="calendar-height uk-table-middle">
                         <td></td>
                         <td></td>
                         <td></td>
@@ -152,7 +165,7 @@
                 <a href="" class="uk-alert-close uk-close"></a>
                 <p><span class="navicon uk-icon-warning"></span> 本季版权番简介信息已全部添加完毕！欢迎<span class="uk-text-bold">点击下方新番名</span>查看简介，也可跳转至Bangumi或动画官网（小尺寸屏幕上点不出来哟，会关不上的~）。本站在移动设备上的浏览体验最近已大幅改进，敬请使用与反馈问题，如果觉得好用也欢迎分享给您有需求的基友=w=</p>
             </div>
-            <blockquote>周一</blockquote>
+            <blockquote id="mon">周一</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -184,7 +197,7 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote>周二</blockquote>
+            <blockquote id="tue">周二</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -211,7 +224,7 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote>周三</blockquote>
+            <blockquote id="wed">周三</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -238,7 +251,7 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote>周四</blockquote>
+            <blockquote id="thu">周四</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -260,7 +273,7 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote>周五</blockquote>
+            <blockquote id="fri">周五</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -292,7 +305,7 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote>周六</blockquote>
+            <blockquote id="sat">周六</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -349,7 +362,7 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote>周日</blockquote>
+            <blockquote id="sun">周日</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
