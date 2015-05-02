@@ -83,6 +83,10 @@ td.uk-width-1-6 span.uk-text-muted {
 }
 }
 
+.divide {
+    color: #c4c4c4;
+}
+
 .calendar-height {
     height: 60px;
 }
