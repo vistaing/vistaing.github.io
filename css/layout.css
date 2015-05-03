@@ -104,14 +104,20 @@ th a {
 
 th a:hover {
     color: dodgerblue;
+    text-decoration: none;
 }
 
-tr a {
+td a {
     color: dimgray;
 }
 
-tr a:hover{
+td a:hover{
+    color: dodgerblue;
     text-decoration: none;
+}
+
+tr.calendar-height td a:hover {
+    color: dodgerblue;
 }
 
 .height {
@@ -237,3 +243,41 @@ h2 {
     bottom: 30px;
 }
 }
+
+.uk-close-button {
+    -webkit-appearance: none;
+    margin: 0;
+    border: none;
+    overflow: visible;
+    font: inherit;
+    color: #444444;
+    text-transform: none;
+    display: inline-block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 12px;
+    background: #f5f5f5;
+    vertical-align: middle;
+    line-height: 28px;
+    min-height: 30px;
+    font-size: 1rem;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 4px;
+    text-shadow: 0 1px 0 #ffffff;
+}
+
+.uk-close-button:hover,
+.uk-close-button:focus {
+    background-color: #fafafa;
+    color: #444444;
+    outline: none;
+    text-decoration: none;
+    border-color: rgba(0, 0, 0, 0.16);
+}
+
+.uk-close-button:active,
+.uk-close-button.uk-active {
+  background-color: #eeeeee;
+  color: #444444;
