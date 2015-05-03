@@ -6,8 +6,6 @@ body {
 }
 
 .mainlogo {
-    /*height: 250px;
-    line-height: 250px; */
     text-align: center;
 }
 
@@ -79,6 +77,15 @@ i.uk-text-muted {
 
 @media (max-width: 460px) {
 td.uk-width-1-6 span.uk-text-muted {
+    display: none;
+}
+.cutweek {
+    display: none;
+}
+.cutday {
+    display: none;
+}
+.divide {
     display: none;
 }
 }
