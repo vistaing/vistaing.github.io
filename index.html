@@ -443,7 +443,6 @@
         <script type="text/javascript">
             var d=new Date();
             var weekday=new Array(7);
-            var weekdaym=new Array(7);
             var weekdaysub=new Array(7);
             weekday[0]="tw7";
             weekday[1]="tw1";
@@ -452,13 +451,6 @@
             weekday[4]="tw4";
             weekday[5]="tw5";
             weekday[6]="tw6";
-            weekdaym[0]="tw7m";
-            weekdaym[1]="tw1m";
-            weekdaym[2]="tw2m";
-            weekdaym[3]="tw3m";
-            weekdaym[4]="tw4m";
-            weekdaym[5]="tw5m";
-            weekdaym[6]="tw6m";
             weekdaysub[0]="sun";
             weekdaysub[1]="mon";
             weekdaysub[2]="tue";
@@ -467,7 +459,6 @@
             weekdaysub[5]="fri";
             weekdaysub[6]="sat";
             document.getElementById(weekday[d.getDay()]).style.display="inline-block";
-            document.getElementById(weekdaym[d.getDay()]).style.display="inline-block";
             document.getElementById(weekdaysub[d.getDay()]).style.color="#00b4ff";
         </script>
         <footer class="uk-container uk-container-center uk-text-center">
