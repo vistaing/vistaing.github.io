@@ -106,6 +106,14 @@ th a:hover {
     color: dodgerblue;
 }
 
+tr a {
+    color: dimgray;
+}
+
+tr a:hover{
+    text-decoration: none;
+}
+
 .height {
     height: 30px;
 }
