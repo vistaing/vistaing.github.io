@@ -73,6 +73,9 @@ body {
 i.uk-text-muted {
     display: none;
 }
+.fold {
+    display: none;
+}
 }
 
 @media (max-width: 460px) {

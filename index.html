@@ -55,16 +55,22 @@
             <table class="uk-table uk-table-striped calendar">
                 <thead>
                     <tr>
-                        <th class="uk-text-top"><a href="#mon" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>一</a>&nbsp;&nbsp;<span class="today" id="tw1">今<span class="cutday">日</span></span></th>
-                        <th class="uk-text-top"><a href="#tue" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>二</a>&nbsp;&nbsp;<span class="today" id="tw2">今<span class="cutday">日</span></span></th>
-                        <th class="uk-text-top"><a href="#wed" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>三</a>&nbsp;&nbsp;<span class="today" id="tw3">今<span class="cutday">日</span></span></th>
-                        <th class="uk-text-top"><a href="#thu" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>四</a>&nbsp;&nbsp;<span class="today" id="tw4">今<span class="cutday">日</span></span></th>
-                        <th class="uk-text-top"><a href="#fri" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>五</a>&nbsp;&nbsp;<span class="today" id="tw5">今<span class="cutday">日</span></span></th>
-                        <th class="uk-text-top"><a href="#sat" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>六</a>&nbsp;&nbsp;<span class="today" id="tw6">今<span class="cutday">日</span></span></th>
-                        <th class="uk-text-top"><a href="#sun" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>日</a>&nbsp;&nbsp;<span class="today" id="tw7">今<span class="cutday">日</span></span></th>
+                        <th class="uk-text-top"><a href="#montitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>一</a>&nbsp;&nbsp;<span class="today" id="tw1">今<span class="cutday">日</span></span></th>
+                        <th class="uk-text-top"><a href="#tuetitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>二</a>&nbsp;&nbsp;<span class="today" id="tw2">今<span class="cutday">日</span></span></th>
+                        <th class="uk-text-top"><a href="#wedtitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>三</a>&nbsp;&nbsp;<span class="today" id="tw3">今<span class="cutday">日</span></span></th>
+                        <th class="uk-text-top"><a href="#thutitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>四</a>&nbsp;&nbsp;<span class="today" id="tw4">今<span class="cutday">日</span></span></th>
+                        <th class="uk-text-top"><a href="#frititle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>五</a>&nbsp;&nbsp;<span class="today" id="tw5">今<span class="cutday">日</span></span></th>
+                        <th class="uk-text-top"><a href="#sattitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>六</a>&nbsp;&nbsp;<span class="today" id="tw6">今<span class="cutday">日</span></span></th>
+                        <th class="uk-text-top"><a href="#suntitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>日</a>&nbsp;&nbsp;<span class="today" id="tw7">今<span class="cutday">日</span></span></th>
                     </tr>
                 </thead>
+            </table>
+            <div class="uk-accordion" data-uk-accordion="{showfirst: false}">
+            <table class="uk-table uk-text-center"><tbody><tr><td class="uk-text-left">|</td><td class="uk-text-center"><a href="#" class="uk-accordion-title fold">点击展开或收起日历</a></td><td class="uk-text-right">|</td></tr></tbody></table>
+            <div class="uk-accordion-content">
+            <table class="uk-table uk-table-striped calendar">
                 <tbody>
+                    <tr></tr>
                     <tr class="calendar-height uk-table-middle">
                         <td><a href="#bgm0101" data-uk-smooth-scroll>怪盗Joker 第二季</a></td>
                         <td><a href="#bgm0201" data-uk-smooth-scroll>Hello!!黄金拼图</a></td>
@@ -146,19 +152,11 @@
                         <td><a href="#bgm0609" data-uk-smooth-scroll>在地下城寻求邂逅是否搞错了什么</a></td>
                         <td></td>
                     </tr>
+                    <div class="gap"></div>
                 </tbody>
             </table>
-            <div class="gap"></div>
-            <!--<script type="text/javascript">
-                window.onload = function () { 
-                    var sourceNode = document.getElementById("sun"); // 获得被克隆的节点对象 
-                    for (var i = 1; i < 5; i++) { 
-                        var clonedNode = sourceNode.cloneNode(true); // 克隆节点 
-                        clonedNode.setAttribute("id", "div-" + i); // 修改一下id 值，避免id 重复 
-                        sourceNode.parentNode.appendChild(clonedNode); // 在父节点插入克隆的节点 
-                    } 
-                } 
-            </script>-->
+            </div>
+            </div>
             <blockquote class="uk-text-large uk-text-success uk-text-bold">今日放送</blockquote>
             <div id="bgmtoday"></div>
             <div class="gap"></div>
