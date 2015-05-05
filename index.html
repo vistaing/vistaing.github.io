@@ -149,11 +149,25 @@
                 </tbody>
             </table>
             <div class="gap"></div>
+            <!--<script type="text/javascript">
+                window.onload = function () { 
+                    var sourceNode = document.getElementById("sun"); // 获得被克隆的节点对象 
+                    for (var i = 1; i < 5; i++) { 
+                        var clonedNode = sourceNode.cloneNode(true); // 克隆节点 
+                        clonedNode.setAttribute("id", "div-" + i); // 修改一下id 值，避免id 重复 
+                        sourceNode.parentNode.appendChild(clonedNode); // 在父节点插入克隆的节点 
+                    } 
+                } 
+            </script>-->
+            <blockquote class="uk-text-large uk-text-success uk-text-bold">今日放送</blockquote>
+            <div id="bgmtoday"></div>
+            <div class="gap"></div>
             <div class="uk-alert uk-alert-success" data-uk-alert>
                 <a href="" class="uk-alert-close uk-close"></a>
                 <p><span class="navicon uk-icon-warning"></span> 本季版权番简介信息已全部添加完毕！欢迎<span class="uk-text-bold">点击下方新番名</span>查看简介，也可跳转至Bangumi或动画官网。本站在移动设备上的浏览体验最近已大幅改进，敬请使用与反馈问题，如果觉得好用也欢迎分享给您有需求的基友=w=</p>
             </div>
-            <blockquote id="mon">周一</blockquote>
+            <blockquote id="montitle">周一</blockquote>
+            <div id="monbgm">
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -190,7 +204,9 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote id="tue">周二</blockquote>
+            </div>
+            <blockquote id="tuetitle">周二</blockquote>
+            <div id="tuebgm">
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -217,7 +233,9 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote id="wed">周三</blockquote>
+            </div>
+            <blockquote id="wedtitle">周三</blockquote>
+            <div id="wedbgm">
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -244,7 +262,9 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote id="thu">周四</blockquote>
+            </div>
+            <blockquote id="thutitle">周四</blockquote>
+            <div id="thubgm">
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -266,7 +286,9 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote id="fri">周五</blockquote>
+            </div>
+            <blockquote id="frititle">周五</blockquote>
+            <div id="fribgm">
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -298,7 +320,9 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote id="sat">周六</blockquote>
+            </div>
+            <blockquote id="sattitle">周六</blockquote>
+            <div id="satbgm">
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -355,7 +379,9 @@
                     </tr>
                 </tbody>
             </table>
-            <blockquote id="sun">周日</blockquote>
+            </div>
+            <blockquote id="suntitle">周日</blockquote>
+            <div id="sunbgm">
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
                     <tr>
@@ -407,6 +433,7 @@
                     </tr>
                 </tbody>
             </table>
+            </div>
             <blockquote>异次元中</blockquote>
             <table class="uk-table uk-table-hover uk-table-striped">
                 <thead>
@@ -440,27 +467,7 @@
                 </tbody>
             </table>
         </div>
-        <script type="text/javascript">
-            var d=new Date();
-            var weekday=new Array(7);
-            var weekdaysub=new Array(7);
-            weekday[0]="tw7";
-            weekday[1]="tw1";
-            weekday[2]="tw2";
-            weekday[3]="tw3";
-            weekday[4]="tw4";
-            weekday[5]="tw5";
-            weekday[6]="tw6";
-            weekdaysub[0]="sun";
-            weekdaysub[1]="mon";
-            weekdaysub[2]="tue";
-            weekdaysub[3]="wed";
-            weekdaysub[4]="thu";
-            weekdaysub[5]="fri";
-            weekdaysub[6]="sat";
-            document.getElementById(weekday[d.getDay()]).style.display="inline-block";
-            document.getElementById(weekdaysub[d.getDay()]).style.color="#00b4ff";
-        </script>
+        <script src="js/neo/today.js"></script>
         <footer class="uk-container uk-container-center uk-text-center">
             <hr>
             <ul class="uk-subnav uk-subnav-line uk-flex-center">
