@@ -330,3 +330,7 @@ a.unfold {
 .unfold-active .zhan {
     display: none;
 }
+
+ins {
+    background-color: #ffffff;
+}
