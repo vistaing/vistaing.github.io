@@ -282,5 +282,51 @@ h2 {
 
 .uk-close-button:active,
 .uk-close-button.uk-active {
-  background-color: #eeeeee;
-  color: #444444;
+    background-color: #eeeeee;
+    color: #444444;
+}
+
+.unfolddec {
+    color: dimgray;
+}
+
+.unfold {
+    border: 1px solid dimgray;
+    border-radius: 4px;
+    padding: 4px 10px;
+    color: dimgray;
+}
+
+.unfold:hover {
+    border: 1px solid #00b4ff;
+    border-radius: 4px;
+    padding: 4px 10px;
+    color: #00b4ff;
+}
+
+.unfold-active {
+    border: 1px solid #00b4ff;
+    background-color: #00b4ff;
+    color: #ffffff;
+}
+
+.unfold-active:hover {
+    background-color: #19bbff;
+    color: #e0f6ff;
+}
+
+a.unfold {
+    text-decoration: none;
+}
+
+.unfold .shou {
+    display: none;
+}
+
+.unfold-active .shou {
+    display: inherit
+}
+
+.unfold-active .zhan {
+    display: none;
+}
