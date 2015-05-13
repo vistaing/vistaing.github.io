@@ -1,0 +1,31 @@
+[
+    {
+        "titleCHN": "山田君与7人魔女",
+        "titleJPN": "山田くんと7人の魔女",
+        "weekday": "1",
+        "time": "0800",
+        "episodeThisWeek": "05",
+        "episodeTotal": "12",
+        "boardcastSource_pptv": "http://v.pptv.com/show/iaVJr6LXk3RtibicGQ.html",
+    },
+    {
+        "titleCHN": "境界之轮回",
+        "titleJPN": "境界のRINNE",
+        "weekday": "1",
+        "time": "1700",
+        "episodeThisWeek": "06",
+        "episodeTotal": "25",
+        "boardcastSource_tudou": "http://www.tudou.com/albumplay/XZptOiXSN6Y/9ugEs2bTKw8.html",
+        "boardcastSource_youku": "http://v.youku.com/v_show/id_XOTUzMzc0MzI0.html",
+    },
+    {
+        "titleCHN": "怪盗Joker 第二季",
+        "titleJPN": "怪盗ジョーカー",
+        "weekday": "1",
+        "time": "1830",
+        "episodeThisWeek": "06",
+        "episodeTotal": "13",
+        "boardcastSource_iqiyi": "http://www.iqiyi.com/v_19rrnr8sxw.html",
+        "boardcastSource_bili": "http://www.bilibili.com/video/av2315081/",
+    },
+]
