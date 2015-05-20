@@ -1,5 +1,3 @@
-$.getJSON('test.json', function(data){
-   for (var i = 0; i < data.rows.length; i++) {
-      $('#test').append('<p>' + data.rows[i].realName + '</p>');
-   }
+$.getJSON('json/1504.json',function(data){
+    $('#broadcast').append('<p>titleCHN:'+data.bgm1504[0].titleCHN+'</p>');
 });
