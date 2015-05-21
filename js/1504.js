@@ -1,4 +1,4 @@
-{"bgm1504": [
+var datasource={"bgm1504": [
     {
         "titleCHN": "Fate/stay night [Unlimited Blade Works] 第二季",
         "titleJPN": "Fate/stay night [Unlimited Blade Works] 2ndシーズン",
@@ -250,12 +250,12 @@
         "titleJPN": "銀魂°",
         "weekday": "3",
         "time": "1800",
-        "episodeThisWeek": "271",
+        "episodeThisWeek": "272",
         "episodeTotal": "???",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/079EtO7LBRw.html",
-        "youku": "http://v.youku.com/v_show/id_XOTUzOTQwMTI0.html"
+        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/Nnt5FlikyvY.html",
+        "youku": "http://v.youku.com/v_show/id_XOTU5OTI0NDA4.html"
         }
     },
     {
@@ -263,11 +263,11 @@
         "titleJPN": "俺物語!!",
         "weekday": "4",
         "time": "1200",
-        "episodeThisWeek": "06",
+        "episodeThisWeek": "07",
         "episodeTotal": "24",
         "linklist":
         {
-        "letv": "http://www.letv.com/ptv/vplay/22748710.html"
+        "letv": "http://www.letv.com/ptv/vplay/22793975.html"
         }
     },
     {
@@ -484,4 +484,4 @@
         }
     }
 ]
-}
+};
