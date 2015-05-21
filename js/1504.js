@@ -275,13 +275,13 @@ var datasource={"bgm1504": [
         "titleJPN": "えとたま",
         "weekday": "4",
         "time": "2300",
-        "episodeThisWeek": "06",
+        "episodeThisWeek": "07",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrnrljuk.html",
-        "tudou": "http://www.tudou.com/albumplay/hGd4jZGmtp4/i8kklJbeQfY.html",
-        "youku": "http://v.youku.com/v_show/id_XOTU1NzIyMTky.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrnpw3ew.html",
+        "tudou": "http://www.tudou.com/albumplay/hGd4jZGmtp4/wvfMl2vjRNw.html",
+        "youku": "http://v.youku.com/v_show/id_XOTYwNjU1NTQ4.html"
         }
     },
     {
@@ -289,11 +289,11 @@ var datasource={"bgm1504": [
         "titleJPN": "放課後のプレアデス",
         "weekday": "4",
         "time": "2330",
-        "episodeThisWeek": "06",
+        "episodeThisWeek": "07",
         "episodeTotal": "12",
         "linklist":
         {
-        "pptv": "http://v.pptv.com/show/n8ic1cojVzApt61M.html"
+        "pptv": "http://v.pptv.com/show/13J29Q9ON3XYVr4.html"
         }
     },
     {
