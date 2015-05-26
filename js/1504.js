@@ -216,6 +216,18 @@ var datasource={"bgm1504": [
         "youku": "http://v.youku.com/v_show/id_XOTU4ODE3MjI0.html"
     },
     {
+        "titleCHN": "摸索吧！部活剧 第三季",
+        "titleJPN": "てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう",
+        "weekday": "3",
+        "time": "0000",
+        "episodeThisWeek": "07",
+        "episodeTotal": "12",
+        "linklist":
+        {
+        "pptv": "http://v.pptv.com/show/c29y8dWiam9k8uiaI.html"
+        }
+    },
+    {
         "titleCHN": "吹响！上低音号",
         "titleJPN": "響け!ユーフォニアム",
         "weekday": "3",
@@ -231,18 +243,6 @@ var datasource={"bgm1504": [
         "tx": "http://v.qq.com/cover/o/oesitw7dajrcifs/j00164xg8fj.html",
         "tudou": "http://www.tudou.com/albumplay/hbSbEkGBZtk/qWvhRfBfMwM.html",
         "youku": "http://v.youku.com/v_show/id_XOTU5NTYzNzE2.html"
-        }
-    },
-    {
-        "titleCHN": "摸索吧！部活剧 第三季",
-        "titleJPN": "てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう",
-        "weekday": "3",
-        "time": "0800",
-        "episodeThisWeek": "07",
-        "episodeTotal": "12",
-        "linklist":
-        {
-        "pptv": "http://v.pptv.com/show/c29y8dWiam9k8uiaI.html"
         }
     },
     {
