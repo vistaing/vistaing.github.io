@@ -212,8 +212,11 @@ var datasource={"bgm1504": [
         "time": "0200",
         "episodeThisWeek": "07",
         "episodeTotal": "12",
+        "linklist":
+        {
         "tudou": "http://www.tudou.com/albumplay/SfWjXGa2scU/xQn_TelzWmc.html",
         "youku": "http://v.youku.com/v_show/id_XOTU4ODE3MjI0.html"
+        }
     },
     {
         "titleCHN": "摸索吧！部活剧 第三季",
