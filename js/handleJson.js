@@ -61,10 +61,10 @@ $(function() {
         	init++;
         }
         $target.append('<tr class="uk-table-middle">'
-			+'<td class="uk-width-3-6" id="'+obj.bgmID+'"><a href="'+obj.bgmInfoID+'" data-uk-modal>'+obj.titleCHN+'<br><i class="uk-text-muted">'+obj.titleJPN+'</i></a></td>'
+			+'<td class="uk-width-3-6" id="'+obj.bgmID+'"><span data-uk-tooltip="{pos:\'top-left\'}" title="放送时间 - '+obj.bgmTime+'"><a href="'+obj.bgmInfoID+'" data-uk-modal>'+obj.titleCHN+'<br><i class="uk-text-muted">'+obj.titleJPN+'</i></a></span></td>'
 			+'<td class="uk-width-1-6">'+obj.episodeThisWeek+' <span class="uk-text-muted">/ '+obj.episodeTotal+'</span></td>'
 			+'<td class="uk-width-2-6">'
-				+linkHTML
+				+'<span data-uk-tooltip="{pos:\'top-left\'}" title="放送时间 - '+obj.bgmTime+'">'+linkHTML+'</span>'
 			+'</td>'
 		+'</tr>');
     });
