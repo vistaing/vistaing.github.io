@@ -2,6 +2,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "Fate/stay night [Unlimited Blade Works] 第二季",
         "titleJPN": "Fate/stay night [Unlimited Blade Works] 2ndシーズン",
+        "bgmID": "#bgm0701",
+        "bgmInfoID": "#info0701",
         "weekday": "0",
         "time": "0030",
         "episodeThisWeek": "07",
@@ -19,6 +21,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "歌之王子殿下 真爱革命",
         "titleJPN": "うたの☆プリンスさまっ♪ マジLOVEレボリューションズ",
+        "bgmID": "#bgm0702",
+        "bgmInfoID": "#info0702",
         "weekday": "0",
         "time": "0030",
         "episodeThisWeek": "06",
@@ -36,6 +40,8 @@ var datasource={"bgm1504": [
         "titleCHN": "血界战线",
         "titleJPN": "血界戦線",
         "weekday": "0",
+        "bgmID": "#bgm0703",
+        "bgmInfoID": "#info0703",
         "time": "0230",
         "episodeThisWeek": "07",
         "episodeTotal": "13",
@@ -50,20 +56,10 @@ var datasource={"bgm1504": [
         }
     },
     {
-        "titleCHN": "钻石王牌 第二季",
-        "titleJPN": "ダイヤのA -SECOND SEASON-",
-        "weekday": "0",
-        "time": "1200",
-        "episodeThisWeek": "24",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "iqiyi": "http://www.iqiyi.com/v_19rrnmues0.html"
-        }
-    },
-    {
         "titleCHN": "亚尔斯兰战记",
         "titleJPN": "アルスラーン戦記",
+        "bgmID": "#bgm0704",
+        "bgmInfoID": "#info0704",
         "weekday": "0",
         "time": "2200",
         "episodeThisWeek": "07",
@@ -82,6 +78,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "攻壳机动队ARISE ALTERNATIVE ARCHITECTURE",
         "titleJPN": "攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE",
+        "bgmID": "#bgm0705",
+        "bgmInfoID": "#info0705",
         "weekday": "0",
         "time": "2300",
         "episodeThisWeek": "06",
@@ -97,6 +95,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "雨色可可",
         "titleJPN": "雨色ココア",
+        "bgmID": "#bgm0706",
+        "bgmInfoID": "#info0706",
         "weekday": "0",
         "time": "2330",
         "episodeThisWeek": "07",
@@ -109,6 +109,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "圣斗士星矢 黄金魂",
         "titleJPN": "聖闘士星矢 黄金魂",
+        "bgmID": "#bgm0707",
+        "bgmInfoID": "#info0707",
         "weekday": "0",
         "time": "2330",
         "episodeThisWeek": "03",
@@ -121,6 +123,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "灰色的乐园",
         "titleJPN": "グリザイアの楽園",
+        "bgmID": "#bgm0101",
+        "bgmInfoID": "#info0101",
         "weekday": "1",
         "time": "0000",
         "episodeThisWeek": "05",
@@ -133,6 +137,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "网球优等生",
         "titleJPN": "ベイビーステップ 第2シリーズ",
+        "bgmID": "#bgm0102",
+        "bgmInfoID": "#info0102",
         "weekday": "1",
         "time": "0100",
         "episodeThisWeek": "07",
@@ -146,6 +152,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "山田君与7人魔女",
         "titleJPN": "山田くんと7人の魔女",
+        "bgmID": "#bgm0103",
+        "bgmInfoID": "#info0103",
         "weekday": "1",
         "time": "0800",
         "episodeThisWeek": "06",
@@ -158,6 +166,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "境界之轮回",
         "titleJPN": "境界のRINNE",
+        "bgmID": "#bgm0104",
+        "bgmInfoID": "#info0104",
         "weekday": "1",
         "time": "1700",
         "episodeThisWeek": "07",
@@ -171,6 +181,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "怪盗Joker 第二季",
         "titleJPN": "怪盗ジョーカー",
+        "bgmID": "#bgm0105",
+        "bgmInfoID": "#info0105",
         "weekday": "1",
         "time": "1830",
         "episodeThisWeek": "07",
@@ -182,8 +194,24 @@ var datasource={"bgm1504": [
         }
     },
     {
+        "titleCHN": "钻石王牌 第二季",
+        "titleJPN": "ダイヤのA -SECOND SEASON-",
+        "bgmID": "#bgm0106",
+        "bgmInfoID": "#info0106",
+        "weekday": "1",
+        "time": "2200",
+        "episodeThisWeek": "24",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "iqiyi": "http://www.iqiyi.com/v_19rrnmues0.html"
+        }
+    },
+    {
         "titleCHN": "女高网球部 4期",
         "titleJPN": "てーきゅう 4期",
+        "bgmID": "#bgm0201",
+        "bgmInfoID": "#info0201",
         "weekday": "2",
         "time": "0105",
         "episodeThisWeek": "07",
@@ -196,6 +224,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "我是高宫茄乃",
         "titleJPN": "高宮なすのです！",
+        "bgmID": "#bgm0202",
+        "bgmInfoID": "#info0202",
         "weekday": "2",
         "time": "0108",
         "episodeThisWeek": "07",
@@ -208,6 +238,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "Hello!!黄金拼图",
         "titleJPN": "ハロー!!きんいろモザイク",
+        "bgmID": "#bgm0203",
+        "bgmInfoID": "#info0203",
         "weekday": "2",
         "time": "0200",
         "episodeThisWeek": "07",
@@ -221,6 +253,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "摸索吧！部活剧 第三季",
         "titleJPN": "てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう",
+        "bgmID": "#bgm0301",
+        "bgmInfoID": "#info0301",
         "weekday": "3",
         "time": "0000",
         "episodeThisWeek": "07",
@@ -233,6 +267,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "吹响！上低音号",
         "titleJPN": "響け!ユーフォニアム",
+        "bgmID": "#bgm0302",
+        "bgmInfoID": "#info0302",
         "weekday": "3",
         "time": "0030",
         "episodeThisWeek": "07",
@@ -251,6 +287,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "银魂°",
         "titleJPN": "銀魂°",
+        "bgmID": "#bgm0303",
+        "bgmInfoID": "#info0303",
         "weekday": "3",
         "time": "1800",
         "episodeThisWeek": "272",
@@ -264,6 +302,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "俺物语！！",
         "titleJPN": "俺物語!!",
+        "bgmID": "#bgm0401",
+        "bgmInfoID": "#info0401",
         "weekday": "4",
         "time": "1200",
         "episodeThisWeek": "07",
@@ -276,6 +316,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "干支魂",
         "titleJPN": "えとたま",
+        "bgmID": "#bgm0402",
+        "bgmInfoID": "#info0402",
         "weekday": "4",
         "time": "2300",
         "episodeThisWeek": "07",
@@ -290,6 +332,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "放学后的昂星团",
         "titleJPN": "放課後のプレアデス",
+        "bgmID": "#bgm0403",
+        "bgmInfoID": "#info0403",
         "weekday": "4",
         "time": "2330",
         "episodeThisWeek": "07",
@@ -302,6 +346,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "关于完全听不懂老公在说什么的事 第二季",
         "titleJPN": "旦那が何を言っているかわからない件 2スレ目",
+        "bgmID": "#bgm0501",
+        "bgmInfoID": "#info0501",
         "weekday": "5",
         "time": "0100",
         "episodeThisWeek": "07",
@@ -317,6 +363,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "我的青春恋爱物语果然有问题。续",
         "titleJPN": "やはり俺の青春ラブコメはまちがっている。続",
+        "bgmID": "#bgm0502",
+        "bgmInfoID": "#info0502",
         "weekday": "5",
         "time": "1000",
         "episodeThisWeek": "07",
@@ -331,6 +379,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "魔法少女奈叶ViVid",
         "titleJPN": "魔法少女リリカルなのはViVid",
+        "bgmID": "#bgm0503",
+        "bgmInfoID": "#info0503",
         "weekday": "5",
         "time": "2300",
         "episodeThisWeek": "07",
@@ -343,6 +393,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "伪恋：",
         "titleJPN": "ニセコイ:",
+        "bgmID": "#bgm0504",
+        "bgmInfoID": "#info0504",
         "weekday": "5",
         "time": "2330",
         "episodeThisWeek": "06",
@@ -357,8 +409,24 @@ var datasource={"bgm1504": [
         }
     },
     {
+        "titleCHN": "在地下城寻求邂逅是否搞错了什么",
+        "titleJPN": "ダンジョンに出会いを求めるのは間違っているだろうか",
+        "bgmID": "#bgm0601",
+        "bgmInfoID": "#info0601",
+        "weekday": "6",
+        "time": "0035",
+        "episodeThisWeek": "07",
+        "episodeTotal": "13",
+        "linklist":
+        {
+        "pptv": "http://v.pptv.com/show/H9iclYpnXzgxv7VU.html"
+        }
+    },
+    {
         "titleCHN": "吸血鬼福尔摩斯",
         "titleJPN": "VAMPIRE HOLMES",
+        "bgmID": "#bgm0602",
+        "bgmInfoID": "#info0602",
         "weekday": "6",
         "time": "0155",
         "episodeThisWeek": "07",
@@ -371,20 +439,10 @@ var datasource={"bgm1504": [
         }
     },
     {
-        "titleCHN": "在地下城寻求邂逅是否搞错了什么",
-        "titleJPN": "ダンジョンに出会いを求めるのは間違っているだろうか",
-        "weekday": "6",
-        "time": "0035",
-        "episodeThisWeek": "07",
-        "episodeTotal": "13",
-        "linklist":
-        {
-        "pptv": "http://v.pptv.com/show/H9iclYpnXzgxv7VU.html"
-        }
-    },
-    {
         "titleCHN": "小长门有希的消失",
         "titleJPN": "長門有希ちゃんの消失",
+        "bgmID": "#bgm0603",
+        "bgmInfoID": "#info0603",
         "weekday": "6",
         "time": "0210",
         "episodeThisWeek": "07",
@@ -401,6 +459,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "希德尼娅的骑士 第九行星战役",
         "titleJPN": "シドニアの騎士 第九惑星戦役",
+        "bgmID": "#bgm0604",
+        "bgmInfoID": "#info0604",
         "weekday": "6",
         "time": "0225",
         "episodeThisWeek": "06",
@@ -416,6 +476,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "食戟之灵",
         "titleJPN": "食戟のソーマ",
+        "bgmID": "#bgm0605",
+        "bgmInfoID": "#info0605",
         "weekday": "6",
         "time": "0440",
         "episodeThisWeek": "07",
@@ -430,6 +492,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "电波教师",
         "titleJPN": "電波教師",
+        "bgmID": "#bgm0606",
+        "bgmInfoID": "#info0606",
         "weekday": "6",
         "time": "1900",
         "episodeThisWeek": "06",
@@ -445,6 +509,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "终结的炽天使",
         "titleJPN": "終わりのセラフ",
+        "bgmID": "#bgm0607",
+        "bgmInfoID": "#info0607",
         "weekday": "6",
         "time": "2200",
         "episodeThisWeek": "07",
@@ -463,6 +529,8 @@ var datasource={"bgm1504": [
     {
         "titleCHN": "枪神斯托拉塔斯",
         "titleJPN": "ガンスリンガーストラトス",
+        "bgmID": "#bgm0608",
+        "bgmInfoID": "#info0608",
         "weekday": "6",
         "time": "2330",
         "episodeThisWeek": "06",
