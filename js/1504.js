@@ -320,13 +320,13 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0402",
         "weekday": "4",
         "bgmTime": "23:00",
-        "episodeThisWeek": "08",
+        "episodeThisWeek": "09",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrojl53w.html",
-        "tudou": "http://www.tudou.com/albumplay/hGd4jZGmtp4/-dqWLW8kEQM.html",
-        "youku": "http://v.youku.com/v_show/id_XOTY2Mjg5NjI0.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroj4ncs.html",
+        "tudou": "http://www.tudou.com/albumplay/hGd4jZGmtp4/dT5MtighSSU.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI1NDg3NTQ2OA==.html"
         }
     },
     {
@@ -336,11 +336,11 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0403",
         "weekday": "4",
         "bgmTime": "23:30",
-        "episodeThisWeek": "08",
+        "episodeThisWeek": "09",
         "episodeTotal": "12",
         "linklist":
         {
-        "pptv": "http://v.pptv.com/show/uxfUU2n07SuODHQ.html"
+        "pptv": "http://v.pptv.com/show/o8oQj0UI8SibSEHg.html"
         }
     },
     {
@@ -350,14 +350,14 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0501",
         "weekday": "5",
         "bgmTime": "01:00",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "13",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2373550/",
-        "letv": "http://www.letv.com/ptv/vplay/22853150.html",
-        "matong": "http://www.hunantv.com/v/7/109630/f/1689327.html",
-        "pptv": "http://v.pptv.com/show/xeicsa0IQCUeqKJA.html"
+        "bili": "http://www.bilibili.com/video/av2398368/",
+        "letv": "http://www.letv.com/ptv/vplay/22896298.html",
+        "matong": "http://www.hunantv.com/v/7/109630/f/1697792.html",
+        "pptv": "http://v.pptv.com/show/0TyibPfSCe7kcmgI.html"
         }
     },
     {
@@ -367,13 +367,13 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0502",
         "weekday": "5",
         "bgmTime": "10:00",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrojjorw.html",
-        "bili": "http://www.bilibili.com/video/av2375118/",
-        "pptv": "http://v.pptv.com/show/1Z5b2P99ZKIFgibs.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroi12qs.html",
+        "bili": "http://www.bilibili.com/video/av2399936/",
+        "pptv": "http://v.pptv.com/show/xTS2NeJwaacKiaPA.html"
         }
     },
     {
