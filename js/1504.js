@@ -277,7 +277,7 @@ var datasource={"bgm1504": [
         {
         "bili": "http://www.bilibili.com/video/av2419847/",
         "letv": "http://www.letv.com/ptv/vplay/22922969.html",
-        "matong": "http://www.hunantv.com/v/7/109804/f/1694537.html",
+        "matong": "http://www.hunantv.com/v/7/109804/f/1701739.html",
         "pptv": "http://v.pptv.com/show/LZdT0DiaeDkyvLZU.html",
         "tx": "http://v.qq.com/cover/o/oesitw7dajrcifs/o0016j1mxus.html",
         "tudou": "http://www.tudou.com/albumplay/hbSbEkGBZtk/ZrVDkMq_HGo.html",
