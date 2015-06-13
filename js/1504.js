@@ -6,16 +6,16 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0701",
         "weekday": "0",
         "bgmTime": "00:30",
-        "episodeThisWeek": "10",
+        "episodeThisWeek": "11",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroi51f4.html",
-        "bili": "http://www.bilibili.com/video/av2407574/",
-        "letv": "http://www.letv.com/ptv/vplay/22906994.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rrogr4mc.html",
+        "bili": "http://www.bilibili.com/video/av2434321/",
+        "letv": "http://www.letv.com/ptv/vplay/22943881.html",
         "tx": "http://v.qq.com/cover/5/54v59r074ncc1kq/s0016ttyrua.html",
-        "tudou": "http://www.tudou.com/albumplay/RsfQldH8q6s/u7Qk9G3gO8E.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI1NjUxMzE2NA==.html"
+        "tudou": "http://www.tudou.com/albumplay/RsfQldH8q6s/Vvn8dlPub1A.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI2MTYxMzQ3Mg==.html"
         }
     },
     {
@@ -25,15 +25,15 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0702",
         "weekday": "0",
         "bgmTime": "00:30",
-        "episodeThisWeek": "10",
+        "episodeThisWeek": "11",
         "episodeTotal": "12",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2407389/",
-        "letv": "http://www.letv.com/ptv/vplay/22907366.html",
+        "bili": "http://www.bilibili.com/video/av2434734/",
+        "letv": "http://www.letv.com/ptv/vplay/22944727.html",
         "tx": "http://v.qq.com/cover/9/9ni9yqck4tdy63j/w0016r07d03.html",
-        "tudou": "http://www.tudou.com/albumplay/XuEeF0KkEWc/qiLk4lz20w0.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI1NjU1MDkyNA==.html"
+        "tudou": "http://www.tudou.com/albumplay/XuEeF0KkEWc/JWjvWmSsrwE.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI2MTg3NDA4NA==.html"
         }
     },
     {
@@ -513,17 +513,17 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0607",
         "weekday": "6",
         "bgmTime": "22:00",
-        "episodeThisWeek": "10",
+        "episodeThisWeek": "11",
         "episodeTotal": "24",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2407376/",
-        "letv": "http://www.letv.com/ptv/vplay/22905928.html",
-        "matong": "http://www.letv.com/ptv/vplay/22905928.html",
-        "pptv": "http://v.pptv.com/show/jwfDQGPx6CaJB28.html",
-        "tx": "http://v.qq.com/cover/i/izsh50sm4ysz5j5/l0016va3j3n.html",
-        "tudou": "http://www.tudou.com/albumplay/oGlXUbsk0Hw/dFQaQJUDUqw.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI1NjM5OTM2NA==.html"
+        "bili": "http://www.bilibili.com/video/av2434730/",
+        "letv": "http://www.letv.com/ptv/vplay/22943829.html",
+        "matong": "http://www.hunantv.com/v/7/109724/f/1705251.html",
+        "pptv": "http://v.pptv.com/show/p0mRDh1bQoDjYck.html",
+        "tx": "http://v.qq.com/cover/i/izsh50sm4ysz5j5/p0016220bbh.html",
+        "tudou": "http://www.tudou.com/albumplay/oGlXUbsk0Hw/GskZDa_-Dx0.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI2MTUyNjQ3Ng==.html"
         }
     },
     {
@@ -533,15 +533,15 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0608",
         "weekday": "6",
         "bgmTime": "23:30",
-        "episodeThisWeek": "10",
+        "episodeThisWeek": "11",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroi4x8k.html",
-        "letv": "http://www.letv.com/ptv/vplay/22907174.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rrogr22w.html",
+        "letv": "http://www.letv.com/ptv/vplay/22944660.html",
         "pptv": "http://v.pptv.com/show/Q0eDAMGMdbMWlPw.html",
-        "tudou": "http://www.tudou.com/albumplay/KyDPNt8PGn4/ZVSS-P4lZJ0.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI1NjUwMzY4NA==.html"
+        "tudou": "http://www.tudou.com/albumplay/KyDPNt8PGn4/JXUujiANGsw.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI2MTgzMTM2OA==.html"
         }
     },
     {
