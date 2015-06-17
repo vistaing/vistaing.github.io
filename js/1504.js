@@ -257,11 +257,11 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0301",
         "weekday": "3",
         "bgmTime": "00:00",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "12",
         "linklist":
         {
-        "pptv": "http://v.pptv.com/show/w9UVknYFicDqdG4M.html"
+        "pptv": "http://v.pptv.com/show/LSSmJSEuF1W4Np4.html"
         }
     },
     {
@@ -271,17 +271,17 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0302",
         "weekday": "3",
         "bgmTime": "00:30",
-        "episodeThisWeek": "10",
+        "episodeThisWeek": "11",
         "episodeTotal": "13",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2419847/",
-        "letv": "http://www.letv.com/ptv/vplay/22922969.html",
-        "matong": "http://www.hunantv.com/v/7/109804/f/1701739.html",
-        "pptv": "http://v.pptv.com/show/LZdT0DiaeDkyvLZU.html",
-        "tx": "http://v.qq.com/cover/o/oesitw7dajrcifs/o0016j1mxus.html",
-        "tudou": "http://www.tudou.com/albumplay/hbSbEkGBZtk/ZrVDkMq_HGo.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI1ODcyNjkwOA==.html"
+        "bili": "http://www.bilibili.com/video/av2446264/",
+        "letv": "http://www.letv.com/ptv/vplay/22960150.html",
+        "matong": "http://www.hunantv.com/v/7/109804/f/1707607.html",
+        "pptv": "http://v.pptv.com/show/x1KYF7ib9pOJFwys.html",
+        "tx": "http://v.qq.com/cover/o/oesitw7dajrcifs/b0016cex0qm.html",
+        "tudou": "http://www.tudou.com/albumplay/hbSbEkGBZtk/l5ohCyQQhaY.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI2Mzk1NjU0MA==.html"
         }
     },
     {
@@ -291,12 +291,12 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0303",
         "weekday": "3",
         "bgmTime": "18:00",
-        "episodeThisWeek": "275",
+        "episodeThisWeek": "276",
         "episodeTotal": "???",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/aZIYHa0tE9w.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI1OTAyODQzNg==.html"
+        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/48zj03AaCTE.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI2NDA0NjU1Mg==.html"
         }
     },
     {
