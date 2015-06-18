@@ -306,11 +306,11 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0401",
         "weekday": "4",
         "bgmTime": "12:00",
-        "episodeThisWeek": "10",
+        "episodeThisWeek": "11",
         "episodeTotal": "24",
         "linklist":
         {
-        "letv": "http://www.letv.com/ptv/vplay/22928715.html"
+        "letv": "http://www.letv.com/ptv/vplay/22968566.html"
         }
     },
     {
