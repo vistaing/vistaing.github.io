@@ -446,7 +446,7 @@ var datasource={"bgm1504": [
         "weekday": "6",
         "bgmTime": "02:10",
         "episodeThisWeek": "12",
-        "episodeTotal": "12",
+        "episodeTotal": "16",
         "linklist":
         {
         "bili": "http://www.bilibili.com/video/av2457770/",
