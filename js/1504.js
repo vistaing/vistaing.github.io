@@ -214,11 +214,11 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0201",
         "weekday": "2",
         "bgmTime": "01:05",
-        "episodeThisWeek": "11",
+        "episodeThisWeek": "12",
         "episodeTotal": "12",
         "linklist":
         {
-        "pptv": "http://v.pptv.com/show/FxTWVS0qE1G0Mpo.html"
+        "pptv": "http://v.pptv.com/show/terlYloZAD6hH4c.html"
         }
     },
     {
@@ -228,11 +228,11 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0202",
         "weekday": "2",
         "bgmTime": "01:08",
-        "episodeThisWeek": "11",
+        "episodeThisWeek": "12",
         "episodeTotal": "12",
         "linklist":
         {
-        "pptv": "http://v.pptv.com/show/FRLYV0AP9jSXFX0.html"
+        "pptv": "http://v.pptv.com/show/te3oZ1AfBkSnJY0.html"
         }
     },
     {
@@ -242,12 +242,12 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0203",
         "weekday": "2",
         "bgmTime": "02:00",
-        "episodeThisWeek": "11",
+        "episodeThisWeek": "12",
         "episodeTotal": "12",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/SfWjXGa2scU/fkWMiiw4j8M.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI2MzIxOTI3Ng==.html"
+        "tudou": "http://www.tudou.com/albumplay/SfWjXGa2scU/KJs1omgYVXI.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI2ODI4MTE4MA==.html"
         }
     },
     {
