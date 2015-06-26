@@ -54,7 +54,7 @@ $(function() {
         	linkHTML+='<span class="badge badge-'+link+'">'+linkName(link)+'</span>';
         	linkHTML+='</a>';
         	if(init<linkListNum-1){
-        		linkHTML+='&nbsp;<span class="divide">|</span> &nbsp;';
+        		linkHTML+=' &nbsp;<span class="divide">|</span> &nbsp;';
         	}else{
 
         	}
