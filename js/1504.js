@@ -367,13 +367,13 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0502",
         "weekday": "5",
         "bgmTime": "10:00",
-        "episodeThisWeek": "12",
+        "episodeThisWeek": "13",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrog6yfs.html",
-        "bili": "http://www.bilibili.com/video/av2455301/",
-        "pptv": "http://v.pptv.com/show/7VyeHbq4od9CwCg.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrofuxkw.html",
+        "bili": "http://www.bilibili.com/video/av2483890/",
+        "pptv": "http://v.pptv.com/show/0786uV4cBUOmJIw.html"
         }
     },
     {
