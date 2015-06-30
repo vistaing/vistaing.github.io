@@ -185,12 +185,12 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0105",
         "weekday": "1",
         "bgmTime": "18:30",
-        "episodeThisWeek": "12",
+        "episodeThisWeek": "13",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrogi730.html",
-        "bili": "http://www.bilibili.com/video/av2470195/"
+        "iqiyi": "http://www.iqiyi.com/v_19rrof4650.html",
+        "bili": "http://www.bilibili.com/video/av2498367/"
         }
     },
     {
@@ -200,11 +200,11 @@ var datasource={"bgm1504": [
         "bgmInfoID": "#info0106",
         "weekday": "1",
         "bgmTime": "22:00",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroglyv8.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrof4mmg.html"
         }
     },
     {
