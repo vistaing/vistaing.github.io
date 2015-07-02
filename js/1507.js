@@ -385,16 +385,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0502",
         "weekday": "5",
         "bgmTime": "01:30",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank",
-        "letv": "about:blank",
+        "bili": "http://www.bilibili.com/video/av2516730/",
+        "letv": "http://www.letv.com/ptv/vplay/23048019.html",
         "matong": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "tx": "http://v.qq.com/cover/a/a3xvy009de4vael.html",
+        "tudou": "http://www.tudou.com/albumcover/bONAn7JK874.html",
+        "youku": "http://www.youku.com/show_page/id_z8f02e3561a5611e5b5ce.html"
         }
     },
     {
