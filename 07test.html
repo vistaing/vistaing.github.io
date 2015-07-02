@@ -32,7 +32,7 @@
     <script src="js/uikit.min.js"></script>
     <script src="js/neo/top.js"></script>
     <script src="js/summary.js"></script>
-    <script src="js/1504.js"></script>
+    <script src="js/1507.js"></script>
     <script src="js/handleJson.js"></script>
 </head>
 
@@ -67,19 +67,19 @@
         <table class="uk-table uk-table-striped calendar">
             <thead>
                 <tr>
-                    <th class="uk-text-top"><a href="#montitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>日</a>&nbsp;&nbsp;<span class="today" id="tw7">今<span class="cutday">日</span></span>
+                    <th class="uk-text-top"><a href="#suntitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>日</a>&nbsp;&nbsp;<span class="today" id="tw7">今<span class="cutday">日</span></span>
                     </th>
-                    <th class="uk-text-top"><a href="#tuetitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>一</a>&nbsp;&nbsp;<span class="today" id="tw1">今<span class="cutday">日</span></span>
+                    <th class="uk-text-top"><a href="#montitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>一</a>&nbsp;&nbsp;<span class="today" id="tw1">今<span class="cutday">日</span></span>
                     </th>
-                    <th class="uk-text-top"><a href="#wedtitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>二</a>&nbsp;&nbsp;<span class="today" id="tw2">今<span class="cutday">日</span></span>
+                    <th class="uk-text-top"><a href="#tuetitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>二</a>&nbsp;&nbsp;<span class="today" id="tw2">今<span class="cutday">日</span></span>
                     </th>
-                    <th class="uk-text-top"><a href="#thutitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>三</a>&nbsp;&nbsp;<span class="today" id="tw3">今<span class="cutday">日</span></span>
+                    <th class="uk-text-top"><a href="#wedtitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>三</a>&nbsp;&nbsp;<span class="today" id="tw3">今<span class="cutday">日</span></span>
                     </th>
-                    <th class="uk-text-top"><a href="#frititle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>四</a>&nbsp;&nbsp;<span class="today" id="tw4">今<span class="cutday">日</span></span>
+                    <th class="uk-text-top"><a href="#thutitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>四</a>&nbsp;&nbsp;<span class="today" id="tw4">今<span class="cutday">日</span></span>
                     </th>
-                    <th class="uk-text-top"><a href="#sattitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>五</a>&nbsp;&nbsp;<span class="today" id="tw5">今<span class="cutday">日</span></span>
+                    <th class="uk-text-top"><a href="#frititle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>五</a>&nbsp;&nbsp;<span class="today" id="tw5">今<span class="cutday">日</span></span>
                     </th>
-                    <th class="uk-text-top"><a href="#suntitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>六</a>&nbsp;&nbsp;<span class="today" id="tw6">今<span class="cutday">日</span></span>
+                    <th class="uk-text-top"><a href="#sattitle" data-uk-smooth-scroll="{offset: 90}"><span class="cutweek">周</span>六</a>&nbsp;&nbsp;<span class="today" id="tw6">今<span class="cutday">日</span></span>
                     </th>
                 </tr>
             </thead>
@@ -175,10 +175,11 @@
         <div class="gap"></div>
         <div class="uk-alert uk-alert-success" data-uk-alert>
             <a href="" class="uk-alert-close uk-close"></a>
-            <p><span class="navicon uk-icon-warning"></span> 本季版权番简介信息已全部添加完毕！欢迎<span class="uk-text-bold">点击下方新番名</span>查看简介，也可跳转至Bangumi或动画官网。本站在移动设备上的浏览体验最近已大幅改进，敬请使用与反馈问题，如果觉得好用也欢迎分享给您有需求的基友=w=</p>
+            <p><span class="navicon uk-icon-warning"></span> 本季即将走向尾声，如果在过去的这短短一季里为您带来了新番导航的便利那就太好了！如果您在使用本站，也非常感谢您的支持，我会尽力做得更好！仍然敬请使用与反馈问题</p>
         </div>
         <div id="broadcast">
-            <blockquote id="montitle">周日</blockquote>
+            <noscript>请务必打开浏览器Javascript支持功能！</noscript>
+            <blockquote id="suntitle">周日</blockquote>
             <div id="monbgm">
                 <table class="uk-table uk-table-hover uk-table-striped">
                     <thead>
@@ -189,11 +190,11 @@
                         </tr>
                     </thead>
                     <tbody>
-
+                        
                     </tbody>
                 </table>
             </div>
-            <blockquote id="tuetitle">周一</blockquote>
+            <blockquote id="montitle">周一</blockquote>
             <div id="tuebgm">
                 <table class="uk-table uk-table-hover uk-table-striped">
                     <thead>
@@ -208,7 +209,7 @@
                     </tbody>
                 </table>
             </div>
-            <blockquote id="wedtitle">周二</blockquote>
+            <blockquote id="tuetitle">周二</blockquote>
             <div id="wedbgm">
                 <table class="uk-table uk-table-hover uk-table-striped">
                     <thead>
@@ -223,7 +224,7 @@
                     </tbody>
                 </table>
             </div>
-            <blockquote id="thutitle">周三</blockquote>
+            <blockquote id="wedtitle">周三</blockquote>
             <div id="thubgm">
                 <table class="uk-table uk-table-hover uk-table-striped">
                     <thead>
@@ -238,7 +239,7 @@
                     </tbody>
                 </table>
             </div>
-            <blockquote id="frititle">周四</blockquote>
+            <blockquote id="thutitle">周四</blockquote>
             <div id="fribgm">
                 <table class="uk-table uk-table-hover uk-table-striped">
                     <thead>
@@ -253,7 +254,7 @@
                     </tbody>
                 </table>
             </div>
-            <blockquote id="sattitle">周五</blockquote>
+            <blockquote id="frititle">周五</blockquote>
             <div id="satbgm">
                 <table class="uk-table uk-table-hover uk-table-striped">
                     <thead>
@@ -268,7 +269,7 @@
                     </tbody>
                 </table>
             </div>
-            <blockquote id="suntitle">周六</blockquote>
+            <blockquote id="sattitle">周六</blockquote>
             <div id="sunbgm">
                 <table class="uk-table uk-table-hover uk-table-striped">
                     <thead>
@@ -891,7 +892,7 @@
                     <p><span class="uk-text-primary uk-text-bold">田中心春: </span>大橋彩香</p>
                 </div>
             </div>
-            <div class="uk-modal-footer uk-text-right"><a class="uk-modal-close uk-close-button">关闭详情</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bangumi.tv/subject/112838" class="uk-button uk-button-primary" target="_blank">Bangumi条目</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ntv.co.jp/tesapuru/index.html‘" class="uk-button" target="_blank">动画官网</a></div>
+            <div class="uk-modal-footer uk-text-right"><a class="uk-modal-close uk-close-button">关闭详情</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bangumi.tv/subject/112838" class="uk-button uk-button-primary" target="_blank">Bangumi条目</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ntv.co.jp/tesapuru/index.html" class="uk-button" target="_blank">动画官网</a></div>
         </div>
     </div>
     <div id="info0302" class="uk-modal">
@@ -1491,5 +1492,4 @@
         </div>
     </div>
 </body>
-
 </html>

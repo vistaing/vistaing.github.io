@@ -78,6 +78,10 @@ i.uk-text-muted {
 }
 }
 
+i.jpntitle {
+    font-size: 8px;
+}
+
 @media (max-width: 460px) {
 td.uk-width-1-6 span.uk-text-muted {
     display: none;
@@ -174,6 +178,10 @@ h2 {
 
 .badge-pptv {
     background: #00a2ff;
+}
+
+.badge-thunder {
+    background: #2bd046;
 }
 
 .badge-tx {

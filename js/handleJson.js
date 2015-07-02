@@ -16,7 +16,7 @@ $(function() {
     	}
     	return num;
     }
-    $.each(datasource.bgm1504, function(index, obj) {
+    $.each(datasource.bgm1507, function(index, obj) {
     	var $target;
         if (obj.weekday) {
         	$target=$weekday_tbody_list[obj.weekday];
@@ -40,6 +40,8 @@ $(function() {
                     return '芒果TV';
                 case 'pptv':
                     return 'PPTV';
+                case 'thunder':
+                    return '迅雷';
                 case 'tx':
                     return '腾讯';
                 case 'tudou':
@@ -61,7 +63,7 @@ $(function() {
         	init++;
         }
         $target.append('<tr class="uk-table-middle">'
-			+'<td class="uk-width-3-6" id="'+obj.bgmID+'"><span data-uk-tooltip="{pos:\'top-left\'}" title="放送时间 - '+obj.bgmTime+'"><a href="'+obj.bgmInfoID+'" data-uk-modal>'+obj.titleCHN+'<br><i class="uk-text-muted">'+obj.titleJPN+'</i></a></span></td>'
+			+'<td class="uk-width-3-6" id="'+obj.bgmID+'"><span data-uk-tooltip="{pos:\'top-left\'}" title="放送时间 - '+obj.bgmTime+'"><a href="'+obj.bgmInfoID+'" data-uk-modal>'+obj.titleCHN+'<br><i class="uk-text-muted jpntitle">'+obj.titleJPN+'</i></a></span></td>'
 			+'<td class="uk-width-1-6">'+obj.episodeThisWeek+' <span class="uk-text-muted">/ '+obj.episodeTotal+'</span></td>'
 			+'<td class="uk-width-2-6">'
 				+'<span data-uk-tooltip="{pos:\'top-left\'}" title="放送时间 - '+obj.bgmTime+'">'+linkHTML+'</span>'
