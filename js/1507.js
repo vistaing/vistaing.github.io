@@ -447,50 +447,35 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0506",
         "weekday": "5",
         "bgmTime": "21:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
+        "episodeThisWeek": "01",
+        "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "pptv": "about:blank",
-        "tx": "about:blank"
-        }
-    },
-    {
-        "titleCHN": "潮与虎",
-        "titleJPN": "うしおととら",
-        "bgmID": "#bgm0507",
-        "bgmInfoID": "#info0507",
-        "weekday": "5",
-        "bgmTime": "21:30",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "iqiyi": "http://www.iqiyi.com/v_19rrooko1o.html",
+        "bili": "http://www.bilibili.com/video/av2520766/",
+        "pptv": "http://v.pptv.com/show/Nfz4d8eRiaMYppw8.html",
+        "tx": "http://v.qq.com/cover/1/1f1gzzkyhi264mg.html"
         }
     },
     {
         "titleCHN": "若叶少女",
         "titleJPN": "わかば＊ガール",
-        "bgmID": "#bgm0508",
-        "bgmInfoID": "#info0508",
+        "bgmID": "#bgm0507",
+        "bgmInfoID": "#info0507",
         "weekday": "5",
         "bgmTime": "22:00",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank"
+        "bili": "http://www.bilibili.com/video/av2520814/"
         }
     },
     {
         "titleCHN": "偶像大师 灰姑娘女孩 第2期",
         "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
-        "bgmID": "#bgm0509",
-        "bgmInfoID": "#info0509",
+        "bgmID": "#bgm0508",
+        "bgmInfoID": "#info0508",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
@@ -510,8 +495,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "魔法少女☆伊莉雅 第二季续篇",
         "titleJPN": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイヘルツ!",
-        "bgmID": "#bgm0510",
-        "bgmInfoID": "#info0510",
+        "bgmID": "#bgm0509",
+        "bgmInfoID": "#info0509",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
@@ -526,8 +511,8 @@ var datasource={"bgm1507": [
         "titleCHN": "噬神者",
         "titleJPN": "GOD EATER",
         "weekday": "5",
-        "bgmID": "#bgm0511",
-        "bgmInfoID": "#info0511",
+        "bgmID": "#bgm0510",
+        "bgmInfoID": "#info0510",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
         "episodeTotal": "??",
@@ -570,10 +555,25 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "小长门有希的消失",
-        "titleJPN": "長門有希ちゃんの消失",
+        "titleCHN": "潮与虎",
+        "titleJPN": "うしおととら",
         "bgmID": "#bgm0603",
         "bgmInfoID": "#info0603",
+        "weekday": "6",
+        "bgmTime": "01:00",
+        "episodeThisWeek": "00",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "tudou": "about:blank",
+        "youku": "about:blank"
+        }
+    },
+    {
+        "titleCHN": "小长门有希的消失",
+        "titleJPN": "長門有希ちゃんの消失",
+        "bgmID": "#bgm0604",
+        "bgmInfoID": "#info0604",
         "weekday": "6",
         "bgmTime": "02:10",
         "episodeThisWeek": "13",
@@ -590,8 +590,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "食戟之灵",
         "titleJPN": "食戟のソーマ",
-        "bgmID": "#bgm0604",
-        "bgmInfoID": "#info0604",
+        "bgmID": "#bgm0605",
+        "bgmInfoID": "#info0605",
         "weekday": "6",
         "bgmTime": "04:40",
         "episodeThisWeek": "13",
@@ -606,8 +606,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "没有下流概念的无聊世界",
         "titleJPN": "下ネタという概念が存在しない退屈な世界",
-        "bgmID": "#bgm0605",
-        "bgmInfoID": "#info0605",
+        "bgmID": "#bgm0606",
+        "bgmInfoID": "#info0606",
         "weekday": "6",
         "bgmTime": "22:00",
         "episodeThisWeek": "00",
@@ -620,8 +620,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "无头骑士异闻录×2 转",
         "titleJPN": "デュラララ!!×2 転",
-        "bgmID": "#bgm0606",
-        "bgmInfoID": "#info0606",
+        "bgmID": "#bgm0607",
+        "bgmInfoID": "#info0607",
         "weekday": "6",
         "bgmTime": "22:30",
         "episodeThisWeek": "00",
