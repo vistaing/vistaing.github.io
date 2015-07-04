@@ -541,50 +541,50 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "教室☆危机",
-        "titleJPN": "Classroom☆Crisis",
+        "titleCHN": "潮与虎",
+        "titleJPN": "うしおととら",
         "bgmID": "#bgm0602",
         "bgmInfoID": "#info0602",
         "weekday": "6",
-        "bgmTime": "00:55",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "bili": "about:blank"
-        }
-    },
-    {
-        "titleCHN": "潮与虎",
-        "titleJPN": "うしおととら",
-        "bgmID": "#bgm0603",
-        "bgmInfoID": "#info0603",
-        "weekday": "6",
         "bgmTime": "01:00",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "tudou": "http://www.tudou.com/albumplay/UW8uUaXCUQg/bH0teo0pSHQ.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3NjM2MjcyMA==.html"
         }
     },
     {
         "titleCHN": "小长门有希的消失",
         "titleJPN": "長門有希ちゃんの消失",
-        "bgmID": "#bgm0604",
-        "bgmInfoID": "#info0604",
+        "bgmID": "#bgm0603",
+        "bgmInfoID": "#info0603",
         "weekday": "6",
         "bgmTime": "02:10",
-        "episodeThisWeek": "13",
+        "episodeThisWeek": "14",
         "episodeTotal": "16",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2486564/",
-        "letv": "http://www.letv.com/ptv/vplay/23018623.html",
-        "tx": "http://v.qq.com/cover/l/l2h6j510vy2r11e/h001635e6tf.html",
-        "tudou": "http://www.tudou.com/albumplay/ElqA9e3gel0/OoxqRCxXZ-M.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3MTI3NDYxNg==.html"
+        "bili": "http://www.bilibili.com/video/av2521012/",
+        "letv": "http://www.letv.com/ptv/vplay/23053670.html",
+        "tx": "http://v.qq.com/cover/l/l2h6j510vy2r11e/d0016n5jyu3.html",
+        "tudou": "http://www.tudou.com/albumplay/ElqA9e3gel0/zctdEoorcwI.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3NjU2NzYyMA==.html"
+        }
+    },
+    {
+        "titleCHN": "教室☆危机",
+        "titleJPN": "Classroom☆Crisis",
+        "bgmID": "#bgm0604",
+        "bgmInfoID": "#info0604",
+        "weekday": "6",
+        "bgmTime": "02:25",
+        "episodeThisWeek": "01",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2521019/"
         }
     },
     {
@@ -594,12 +594,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0605",
         "weekday": "6",
         "bgmTime": "04:40",
-        "episodeThisWeek": "13",
+        "episodeThisWeek": "14",
         "episodeTotal": "24",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrog1uuo.html",
-        "bili": "http://www.bilibili.com/video/av2486568/",
+        "iqiyi": "http://www.iqiyi.com/v_19rrooitd8.html",
+        "bili": "http://www.bilibili.com/video/av2521022/",
         "matong": "http://www.hunantv.com/v/7/109719/f/1715430.html"
         }
     },
@@ -614,7 +614,7 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank"
+        "bili": "http://www.bilibili.com/sp/%E6%B2%A1%E6%9C%89%E9%BB%84%E6%AE%B5%E5%AD%90%E7%9A%84%E6%97%A0%E8%81%8A%E4%B8%96%E7%95%8C"
         }
     },
     {
