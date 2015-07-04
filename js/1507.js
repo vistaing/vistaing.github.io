@@ -548,7 +548,7 @@ var datasource={"bgm1507": [
         "weekday": "6",
         "bgmTime": "01:00",
         "episodeThisWeek": "01",
-        "episodeTotal": "??",
+        "episodeTotal": "39",
         "linklist":
         {
         "tudou": "http://www.tudou.com/albumplay/UW8uUaXCUQg/bH0teo0pSHQ.html",
