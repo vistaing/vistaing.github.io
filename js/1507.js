@@ -95,11 +95,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0706",
         "weekday": "0",
         "bgmTime": "23:30",
-        "episodeThisWeek": "06",
+        "episodeThisWeek": "07",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrogdvts.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrooinq0.html"
         }
     },
     {
@@ -537,7 +537,7 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "tx": "about:blank"
+        "tx": "http://v.qq.com/detail/o/ouwrkn72batk58k.html"
         }
     },
     {
@@ -600,7 +600,7 @@ var datasource={"bgm1507": [
         {
         "iqiyi": "http://www.iqiyi.com/v_19rrooitd8.html",
         "bili": "http://www.bilibili.com/video/av2521022/",
-        "matong": "http://www.hunantv.com/v/7/109719/f/1715430.html"
+        "matong": "http://www.hunantv.com/v/7/109719/f/1722702.html"
         }
     },
     {
@@ -628,11 +628,11 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "iqiyi": "http://www.iqiyi.com/lib/m_206780214.html",
+        "bili": "http://www.bilibili.com/sp/%E6%97%A0%E5%A4%B4%E9%AA%91%E5%A3%AB%E5%BC%82%E9%97%BB%E5%BD%95#S-1995",
+        "tx": "http://v.qq.com/detail/4/4gmobofw9fltve9.html",
+        "tudou": "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
+        "youku": "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html"
         }
     },
     {
@@ -646,7 +646,7 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank"
+        "bili": "http://www.bilibili.com/sp/WORKING%21%21%E8%BF%B7%E7%B3%8A%E9%A4%90%E5%8E%85#S-1960"
         }
     }
 ]
