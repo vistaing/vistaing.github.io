@@ -128,11 +128,11 @@ var datasource={"bgm1507": [
         "linklist":
         {
         "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "letv": "about:blank",
+        "bili": "http://www.bilibili.com/sp/%E5%99%AC%E7%A5%9E%E8%80%85",
+        "letv": "http://www.letv.com/ptv/vplay/22971535.html",
         "tx": "http://v.qq.com/cover/w/wdp6c3tyxfha0l8.html",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "tudou": "http://www.tudou.com/albumcover/n3RSRsUtHhk.html",
+        "youku": "http://www.youku.com/show_page/id_z7f52b0ce197c11e5a080.html"
         }
     },
     {
