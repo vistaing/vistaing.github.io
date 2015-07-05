@@ -89,11 +89,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0706",
         "weekday": "0",
         "bgmTime": "12:30",
-        "episodeThisWeek": "21",
+        "episodeThisWeek": "22",
         "episodeTotal": "51",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroeuua4.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rrooqbc8.html",
         }
     },
     {
@@ -103,17 +103,17 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0707",
         "weekday": "0",
         "bgmTime": "22:00",
-        "episodeThisWeek": "13",
+        "episodeThisWeek": "13.5",
         "episodeTotal": "24",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroez8nc.html",
-        "bili": "http://www.bilibili.com/video/av2495562/",
-        "letv": "http://www.letv.com/ptv/vplay/23026628.html",
-        "pptv": "http://v.pptv.com/show/7cEMiaywxKGbJR68.html",
-        "tx": "http://v.qq.com/cover/2/2nqzaniq3tunys1/m00164praqf.html",
-        "tudou": "http://www.tudou.com/albumplay/Ko7krCYz4w4/RIhAs8Djf24.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3MjY1MDY2MA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroopcx4.html",
+        "bili": "http://www.bilibili.com/video/av2530332/",
+        "letv": "http://www.letv.com/ptv/vplay/23061188.html",
+        "pptv": "http://v.pptv.com/show/O9chnjlEPXveXMQ.html",
+        "tx": "http://v.qq.com/cover/2/2nqzaniq3tunys1/m0016c4czsp.html",
+        "tudou": "http://www.tudou.com/albumplay/Ko7krCYz4w4/WfcEnBwlFkM.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3ODAwNjE1Ng==.html"
         }
     },
     {
@@ -127,12 +127,12 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "about:blank",
+        "iqiyi": "http://www.iqiyi.com/v_19rrooo574.html",
         "bili": "http://www.bilibili.com/sp/%E5%99%AC%E7%A5%9E%E8%80%85",
-        "letv": "http://www.letv.com/ptv/vplay/22971535.html",
+        "letv": "http://www.letv.com/ptv/vplay/23061131.html",
         "tx": "http://v.qq.com/cover/w/wdp6c3tyxfha0l8.html",
-        "tudou": "http://www.tudou.com/albumcover/n3RSRsUtHhk.html",
-        "youku": "http://www.youku.com/show_page/id_z7f52b0ce197c11e5a080.html"
+        "tudou": "http://www.tudou.com/albumplay/n3RSRsUtHhk/sRUOyslT6s0.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3NzY4MTY0NA==.html"
         }
     },
     {
