@@ -74,12 +74,12 @@ var datasource={"bgm1507": [
         "bgmID": "#bgm0705",
         "bgmInfoID": "#info0705",
         "weekday": "0",
-        "bgmTime": "08:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
+        "bgmTime": "11:00",
+        "episodeThisWeek": "01",
+        "episodeTotal": "26",
         "linklist":
         {
-        "iqiyi": "about:blank",
+        "iqiyi": "http://www.iqiyi.com/v_19rroopiy0.html",
         }
     },
     {
