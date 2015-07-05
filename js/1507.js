@@ -6,31 +6,30 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0701",
         "weekday": "0",
         "bgmTime": "00:30",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
+        "episodeThisWeek": "01",
+        "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "letv": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "iqiyi": "http://www.iqiyi.com/v_19rroomfjs.html",
+        "bili": "http://www.bilibili.com/video/av2524490/",
+        "letv": "http://www.letv.com/ptv/vplay/23056727.html",
+        "tx": "http://v.qq.com/cover/k/keh8jx4nea7e5w0.html",
+        "tudou": "http://www.tudou.com/albumplay/tO8jG72LwdY.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3NzA2NzgxMg==.html"
         }
     },
     {
-        "titleCHN": "科学小飞侠 Crowds insight",
-        "titleJPN": "ガッチャマン クラウズ インサイト",
+        "titleCHN": "迷糊餐厅 第三季",
+        "titleJPN": "WORKING!!!",
         "bgmID": "#bgm0702",
         "bgmInfoID": "#info0702",
         "weekday": "0",
-        "bgmTime": "00:55",
-        "episodeThisWeek": "00",
+        "bgmTime": "01:00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "bili": "http://www.bilibili.com/video/av2524510/"
         }
     },
     {
@@ -40,25 +39,40 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0703",
         "weekday": "0",
         "bgmTime": "03:30",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
+        "episodeTotal": "12",
+        "linklist":
+        {
+        "iqiyi": "http://www.iqiyi.com/v_19rroomjxw.html",
+        "bili": "http://www.bilibili.com/video/av2524533/",
+        "letv": "http://www.letv.com/ptv/vplay/23057637.html",
+        "matong": "about:blank",
+        "pptv": "http://v.pptv.com/show/vWJu7edya6kMiavI.html",
+        "tx": "http://v.qq.com/cover/e/ekcyxmd6r13mh6o.html",
+        "tudou": "http://www.tudou.com/albumplay/8nSAQ0J0quI.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3NzMxMzIxMg==.html"
+        }
+    },
+    {
+        "titleCHN": "科学小飞侠 Crowds insight",
+        "titleJPN": "ガッチャマン クラウズ インサイト",
+        "bgmID": "#bgm0704",
+        "bgmInfoID": "#info0704",
+        "weekday": "0",
+        "bgmTime": "04:30",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "letv": "about:blank",
-        "matong": "about:blank",
-        "pptv": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "tudou": "http://www.tudou.com/albumplay/wk_5UB9cfe4.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3NzI1ODUyNA==.html"
         }
     },
     {
         "titleCHN": "龙珠超",
         "titleJPN": "ドラゴンボール超",
-        "bgmID": "#bgm0704",
-        "bgmInfoID": "#info0704",
+        "bgmID": "#bgm0705",
+        "bgmInfoID": "#info0705",
         "weekday": "0",
         "bgmTime": "08:00",
         "episodeThisWeek": "00",
@@ -69,10 +83,24 @@ var datasource={"bgm1507": [
         }
     },
     {
+        "titleCHN": "Go Princess 光之美少女",
+        "titleJPN": "Go！プリンセスプリキュア",
+        "bgmID": "#bgm0706",
+        "bgmInfoID": "#info0706",
+        "weekday": "0",
+        "bgmTime": "12:30",
+        "episodeThisWeek": "21",
+        "episodeTotal": "51",
+        "linklist":
+        {
+        "iqiyi": "http://www.iqiyi.com/v_19rroeuua4.html",
+        }
+    },
+    {
         "titleCHN": "亚尔斯兰战记",
         "titleJPN": "アルスラーン戦記",
-        "bgmID": "#bgm0705",
-        "bgmInfoID": "#info0705",
+        "bgmID": "#bgm0707",
+        "bgmInfoID": "#info0707",
         "weekday": "0",
         "bgmTime": "22:00",
         "episodeThisWeek": "13",
@@ -89,10 +117,29 @@ var datasource={"bgm1507": [
         }
     },
     {
+        "titleCHN": "噬神者",
+        "titleJPN": "GOD EATER",
+        "bgmID": "#bgm0708",
+        "bgmInfoID": "#info0708",
+        "weekday": "0",
+        "bgmTime": "22:30",
+        "episodeThisWeek": "00",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "iqiyi": "about:blank",
+        "bili": "about:blank",
+        "letv": "about:blank",
+        "tx": "http://v.qq.com/cover/w/wdp6c3tyxfha0l8.html",
+        "tudou": "about:blank",
+        "youku": "about:blank"
+        }
+    },
+    {
         "titleCHN": "圣斗士星矢 黄金魂",
         "titleJPN": "聖闘士星矢 黄金魂",
-        "bgmID": "#bgm0706",
-        "bgmInfoID": "#info0706",
+        "bgmID": "#bgm0709",
+        "bgmInfoID": "#info0709",
         "weekday": "0",
         "bgmTime": "23:30",
         "episodeThisWeek": "07",
@@ -343,10 +390,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "混沌之龙",
-        "titleJPN": "ケイオスドラゴン 赤竜戦役",
+        "titleCHN": "偶像活动 第三季",
+        "titleJPN": "アイカツ!三年目",
         "bgmID": "#bgm0405",
         "bgmInfoID": "#info0405",
+        "weekday": "4",
+        "bgmTime": "19:30",
+        "episodeThisWeek": "39",
+        "episodeTotal": "51",
+        "linklist":
+        {
+        "iqiyi": "http://www.iqiyi.com/v_19rrooba0s.html"
+        }
+    },
+    {
+        "titleCHN": "混沌之龙",
+        "titleJPN": "ケイオスドラゴン 赤竜戦役",
+        "bgmID": "#bgm0406",
+        "bgmInfoID": "#info0406",
         "weekday": "4",
         "bgmTime": "22:30",
         "episodeThisWeek": "01",
@@ -508,25 +569,6 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "噬神者",
-        "titleJPN": "GOD EATER",
-        "weekday": "5",
-        "bgmID": "#bgm0510",
-        "bgmInfoID": "#info0510",
-        "bgmTime": "00:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "letv": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
-        }
-    },
-    {
         "titleCHN": "监狱学园",
         "titleJPN": "監獄学園",
         "bgmID": "#bgm0601",
@@ -610,11 +652,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0606",
         "weekday": "6",
         "bgmTime": "22:00",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/sp/%E6%B2%A1%E6%9C%89%E9%BB%84%E6%AE%B5%E5%AD%90%E7%9A%84%E6%97%A0%E8%81%8A%E4%B8%96%E7%95%8C"
+        "bili": "http://www.bilibili.com/video/av2524522/"
         }
     },
     {
@@ -624,29 +666,15 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0607",
         "weekday": "6",
         "bgmTime": "22:30",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
+        "episodeThisWeek": "01",
+        "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/lib/m_206780214.html",
-        "bili": "http://www.bilibili.com/sp/%E6%97%A0%E5%A4%B4%E9%AA%91%E5%A3%AB%E5%BC%82%E9%97%BB%E5%BD%95#S-1995",
-        "tx": "http://v.qq.com/detail/4/4gmobofw9fltve9.html",
-        "tudou": "http://www.tudou.com/albumcover/Se7oGWDr_GA.html",
-        "youku": "http://www.youku.com/show_page/id_z2c9c7552acd811e38b3f.html"
-        }
-    },
-    {
-        "titleCHN": "迷糊餐厅 第三季",
-        "titleJPN": "WORKING!!!",
-        "bgmID": "#bgm0608",
-        "bgmInfoID": "#info0608",
-        "weekday": "6",
-        "bgmTime": "23:30",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "bili": "http://www.bilibili.com/sp/WORKING%21%21%E8%BF%B7%E7%B3%8A%E9%A4%90%E5%8E%85#S-1960"
+        "iqiyi": "http://www.iqiyi.com/v_19rroolao8.html",
+        "bili": "http://www.bilibili.com/video/av2524472/",
+        "tx": "http://v.qq.com/cover/4/4gmobofw9fltve9.html",
+        "tudou": "http://www.tudou.com/albumplay/Se7oGWDr_GA/2L8fKzQwmSY.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3NzI5NTQ3Mg==.html"
         }
     }
 ]
