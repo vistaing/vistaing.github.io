@@ -150,24 +150,10 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "枕男子",
-        "titleJPN": "枕男子",
-        "bgmID": "#bgm0101",
-        "bgmInfoID": "#info0101",
-        "weekday": "1",
-        "bgmTime": "00:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "tx": "about:blank"
-        }
-    },
-    {
         "titleCHN": "境界之轮回",
         "titleJPN": "境界のRINNE",
-        "bgmID": "#bgm0102",
-        "bgmInfoID": "#info0102",
+        "bgmID": "#bgm0101",
+        "bgmInfoID": "#info0101",
         "weekday": "1",
         "bgmTime": "17:00",
         "episodeThisWeek": "12",
@@ -181,8 +167,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "钻石王牌 第二季",
         "titleJPN": "ダイヤのA -SECOND SEASON-",
-        "bgmID": "#bgm0103",
-        "bgmInfoID": "#info0103",
+        "bgmID": "#bgm0102",
+        "bgmInfoID": "#info0102",
         "weekday": "1",
         "bgmTime": "22:00",
         "episodeThisWeek": "09",
@@ -203,75 +189,75 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank",
+        "bili": "http://www.bilibili.com/sp/Million%20Doll",
+        }
+    },
+    {
+        "titleCHN": "枕男子",
+        "titleJPN": "枕男子",
+        "bgmID": "#bgm0202",
+        "bgmInfoID": "#info0202",
+        "weekday": "2",
+        "bgmTime": "00:15",
+        "episodeThisWeek": "00",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "tx": "about:blank"
         }
     },
     {
         "titleCHN": "其实我是",
         "titleJPN": "実は私は",
-        "bgmID": "#bgm0202",
-        "bgmInfoID": "#info0202",
+        "bgmID": "#bgm0203",
+        "bgmInfoID": "#info0203",
         "weekday": "2",
         "bgmTime": "00:35",
         "episodeThisWeek": "00",
         "episodeTotal": "??",
         "linklist":
         {
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "tudou": "http://www.tudou.com/albumcover/XJZSLm81Y-8.html",
+        "youku": "http://www.youku.com/show_page/id_z961bfe7c197d11e5b5ce.html"
         }
     },
     {
         "titleCHN": "悠哉日常大王 Repeat",
         "titleJPN": "のんのんびより りぴーと",
-        "bgmID": "#bgm0203",
-        "bgmInfoID": "#info0203",
+        "bgmID": "#bgm0204",
+        "bgmInfoID": "#info0204",
         "weekday": "2",
         "bgmTime": "01:05",
         "episodeThisWeek": "00",
         "episodeTotal": "??",
         "linklist":
         {
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "tudou": "http://www.tudou.com/albumcover/-3O0GyT_JkQ.html",
+        "youku": "http://www.youku.com/show_page/id_z837ad5f2198411e5b432.html"
         }
     },
     {
         "titleCHN": "红发的白雪公主",
         "titleJPN": "赤髪の白雪姫",
-        "bgmID": "#bgm0204",
-        "bgmInfoID": "#info0204",
+        "bgmID": "#bgm0205",
+        "bgmInfoID": "#info0205",
         "weekday": "2",
         "bgmTime": "02:30",
         "episodeThisWeek": "00",
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "pptv": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "iqiyi": "http://www.iqiyi.com/a_19rrhb5pv5.html",
+        "bili": "http://www.bilibili.com/sp/%E8%B5%A4%E5%8F%91%E7%99%BD%E9%9B%AA%E5%A7%AC",
+        "pptv": "http://v.pptv.com/show/g6aSEHjeTozvbdU.html",
+        "tx": "http://v.qq.com/cover/2/2hndczgdvkpzff5.html",
+        "tudou": "http://www.tudou.com/albumcover/StDyVAcEEkA.html",
+        "youku": "http://www.youku.com/show_page/id_z389e1aea197e11e5b5ce.html"
         }
     },
     {
         "titleCHN": "那就是声优！",
         "titleJPN": "それが声優！",
-        "bgmID": "#bgm0205",
-        "bgmInfoID": "#info0205",
-        "weekday": "2",
-        "bgmTime": "22:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "bili": "about:blank"
-        }
-    },
-    {
-        "titleCHN": "OVER LORD",
-        "titleJPN": "オーバーロード",
         "bgmID": "#bgm0206",
         "bgmInfoID": "#info0206",
         "weekday": "2",
@@ -280,21 +266,35 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank"
+        "bili": "http://www.bilibili.com/sp/%E9%82%A3%E5%B0%B1%E6%98%AF%E5%A3%B0%E4%BC%98%EF%BC%81"
+        }
+    },
+    {
+        "titleCHN": "OVER LORD",
+        "titleJPN": "オーバーロード",
+        "bgmID": "#bgm0207",
+        "bgmInfoID": "#info0207",
+        "weekday": "2",
+        "bgmTime": "22:00",
+        "episodeThisWeek": "00",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/sp/OVER%20LORD"
         }
     },
     {
         "titleCHN": "魔物娘相伴的日常",
         "titleJPN": "モンスター娘のいる日常",
-        "bgmID": "#bgm0207",
-        "bgmInfoID": "#info0207",
+        "bgmID": "#bgm0208",
+        "bgmInfoID": "#info0208",
         "weekday": "2",
         "bgmTime": "23:30",
         "episodeThisWeek": "00",
         "episodeTotal": "??",
         "linklist":
         {
-        "tx": "about:blank"
+        "tx": "http://v.qq.com/cover/8/8yjy00f3wg1tz63.html"
         }
     },
     {
