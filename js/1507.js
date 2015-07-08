@@ -256,41 +256,13 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "那就是声优！",
-        "titleJPN": "それが声優！",
-        "bgmID": "#bgm0206",
-        "bgmInfoID": "#info0206",
-        "weekday": "2",
-        "bgmTime": "22:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "bili": "http://www.bilibili.com/sp/%E9%82%A3%E5%B0%B1%E6%98%AF%E5%A3%B0%E4%BC%98%EF%BC%81"
-        }
-    },
-    {
-        "titleCHN": "OVER LORD",
-        "titleJPN": "オーバーロード",
-        "bgmID": "#bgm0207",
-        "bgmInfoID": "#info0207",
-        "weekday": "2",
-        "bgmTime": "22:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "bili": "http://www.bilibili.com/sp/OVER%20LORD"
-        }
-    },
-    {
         "titleCHN": "魔物娘相伴的日常",
         "titleJPN": "モンスター娘のいる日常",
-        "bgmID": "#bgm0208",
-        "bgmInfoID": "#info0208",
-        "weekday": "2",
-        "bgmTime": "23:30",
-        "episodeThisWeek": "00",
+        "bgmID": "#bgm0301",
+        "bgmInfoID": "#info0301",
+        "weekday": "3",
+        "bgmTime": "00:30",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
@@ -298,10 +270,38 @@ var datasource={"bgm1507": [
         }
     },
     {
+        "titleCHN": "OVER LORD",
+        "titleJPN": "オーバーロード",
+        "bgmID": "#bgm0302",
+        "bgmInfoID": "#info0302",
+        "weekday": "3",
+        "bgmTime": "01:20",
+        "episodeThisWeek": "01",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2540946/"
+        }
+    },
+    {
+        "titleCHN": "那就是声优！",
+        "titleJPN": "それが声優！",
+        "bgmID": "#bgm0303",
+        "bgmInfoID": "#info0303",
+        "weekday": "3",
+        "bgmTime": "04:30",
+        "episodeThisWeek": "01",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2540004/"
+        }
+    },
+    {
         "titleCHN": "银魂°",
         "titleJPN": "銀魂°",
-        "bgmID": "#bgm0301",
-        "bgmInfoID": "#info0301",
+        "bgmID": "#bgm0304",
+        "bgmInfoID": "#info0304",
         "weekday": "3",
         "bgmTime": "18:00",
         "episodeThisWeek": "278",
@@ -315,15 +315,15 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "洲崎西 THE ANIMATION",
         "titleJPN": "洲崎西 THE ANIMATION",
-        "bgmID": "#bgm0302",
-        "bgmInfoID": "#info0302",
+        "bgmID": "#bgm0305",
+        "bgmInfoID": "#info0305",
         "weekday": "3",
         "bgmTime": "20:55",
         "episodeThisWeek": "00",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank",
+        "bili": "http://www.bilibili.com/sp/%E6%B4%B2%E5%B4%8E%E8%A5%BF",
         }
     },
     {
