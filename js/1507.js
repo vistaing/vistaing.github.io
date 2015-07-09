@@ -69,10 +69,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "龙珠超",
-        "titleJPN": "ドラゴンボール超",
+        "titleCHN": "境界触发者",
+        "titleJPN": "ワールドトリガー",
         "bgmID": "#bgm0705",
         "bgmInfoID": "#info0705",
+        "weekday": "0",
+        "bgmTime": "11:00",
+        "episodeThisWeek": "37",
+        "episodeTotal": "50",
+        "linklist":
+        {
+        "iqiyi": "http://www.iqiyi.com/v_19rroopg68.html",
+        }
+    },
+    {
+        "titleCHN": "龙珠超",
+        "titleJPN": "ドラゴンボール超",
+        "bgmID": "#bgm0706",
+        "bgmInfoID": "#info0706",
         "weekday": "0",
         "bgmTime": "11:00",
         "episodeThisWeek": "01",
@@ -85,8 +99,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "Go Princess 光之美少女",
         "titleJPN": "Go！プリンセスプリキュア",
-        "bgmID": "#bgm0706",
-        "bgmInfoID": "#info0706",
+        "bgmID": "#bgm0707",
+        "bgmInfoID": "#info0707",
         "weekday": "0",
         "bgmTime": "12:30",
         "episodeThisWeek": "22",
@@ -99,8 +113,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "亚尔斯兰战记",
         "titleJPN": "アルスラーン戦記",
-        "bgmID": "#bgm0707",
-        "bgmInfoID": "#info0707",
+        "bgmID": "#bgm0708",
+        "bgmInfoID": "#info0708",
         "weekday": "0",
         "bgmTime": "22:00",
         "episodeThisWeek": "13.5",
@@ -119,8 +133,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "噬神者",
         "titleJPN": "GOD EATER",
-        "bgmID": "#bgm0708",
-        "bgmInfoID": "#info0708",
+        "bgmID": "#bgm0709",
+        "bgmInfoID": "#info0709",
         "weekday": "0",
         "bgmTime": "22:30",
         "episodeThisWeek": "00",
@@ -138,8 +152,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "圣斗士星矢 黄金魂",
         "titleJPN": "聖闘士星矢 黄金魂",
-        "bgmID": "#bgm0709",
-        "bgmInfoID": "#info0709",
+        "bgmID": "#bgm0710",
+        "bgmInfoID": "#info0710",
         "weekday": "0",
         "bgmTime": "23:30",
         "episodeThisWeek": "07",
@@ -304,12 +318,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0304",
         "weekday": "3",
         "bgmTime": "18:00",
-        "episodeThisWeek": "278",
+        "episodeThisWeek": "279",
         "episodeTotal": "???",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/Mpi99pjFbZE.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3Mzg4NDAwMA==.html"
+        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/WwS3tG3sxBQ.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3OTEwNzY5Ng==.html"
         }
     },
     {
@@ -319,11 +333,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0305",
         "weekday": "3",
         "bgmTime": "20:55",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/sp/%E6%B4%B2%E5%B4%8E%E8%A5%BF",
+        "bili": "http://www.bilibili.com/video/av2543959/",
         }
     },
     {
@@ -333,12 +347,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0401",
         "weekday": "4",
         "bgmTime": "01:00",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank",
-        "tx": "about:blank"
+        "bili": "http://www.bilibili.com/video/av2544169/",
+        "tx": "http://v.qq.com/cover/a/aan1um3pt3nue20.html"
         }
     },
     {
@@ -348,11 +362,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0402",
         "weekday": "4",
         "bgmTime": "01:35",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "tx": "about:blank"
+        "tx": "http://v.qq.com/cover/q/q9zzprtw17v6r01.html"
         }
     },
     {
@@ -362,17 +376,17 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0403",
         "weekday": "4",
         "bgmTime": "03:14",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "letv": "about:blank",
-        "pptv": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "iqiyi": "http://www.iqiyi.com/v_19rronw0ko.html",
+        "bili": "http://www.bilibili.com/video/av2544174/",
+        "letv": "http://www.letv.com/ptv/vplay/23075561.html",
+        "pptv": "http://v.pptv.com/show/HTO9OhtWT43wbtY.html",
+        "tx": "http://v.qq.com/cover/3/3lriily11h16j01.html",
+        "tudou": "http://www.tudou.com/albumplay/4IsZAYXiK2M.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI3OTkwNDAxMg==.html"
         }
     },
     {
@@ -382,11 +396,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0404",
         "weekday": "4",
         "bgmTime": "10:00",
-        "episodeThisWeek": "13",
+        "episodeThisWeek": "14",
         "episodeTotal": "24",
         "linklist":
         {
-        "letv": "http://www.letv.com/ptv/vplay/23042756.html"
+        "letv": "http://www.letv.com/ptv/vplay/23077345.html"
         }
     },
     {
@@ -469,8 +483,8 @@ var datasource={"bgm1507": [
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "about:blank",
-        "tx": "about:blank"
+        "bili": "http://www.bilibili.com/sp/%E5%AD%A6%E5%9B%AD%E5%AD%A4%E5%B2%9B",
+        "tx": "http://v.qq.com/cover/f/f6za0go0jf6fzrm/a0016rsrwte.html"
         }
     },
     {
@@ -493,12 +507,12 @@ var datasource={"bgm1507": [
         "bgmID": "#bgm0505",
         "bgmInfoID": "#info0505",
         "weekday": "5",
-        "bgmTime": "11:00",
-        "episodeThisWeek": "00",
+        "bgmTime": "12:00",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/sp/%E9%BB%91%E5%A1%94%E5%88%A9%E4%BA%9A#S-1959"
+        "bili": "http://www.bilibili.com/video/av2546788/"
         }
     },
     {
@@ -533,10 +547,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "偶像大师 灰姑娘女孩 第2期",
-        "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
+        "titleCHN": "乌瑟的穷困生活 梦幻篇",
+        "titleJPN": "うーさーのその日暮らし 夢幻編",
         "bgmID": "#bgm0508",
         "bgmInfoID": "#info0508",
+        "weekday": "5",
+        "bgmTime": "22:20",
+        "episodeThisWeek": "01",
+        "episodeTotal": "13",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2520843/"
+        }
+    },
+    {
+        "titleCHN": "偶像大师 灰姑娘女孩 第2期",
+        "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
+        "bgmID": "#bgm0509",
+        "bgmInfoID": "#info0509",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
@@ -556,8 +584,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "魔法少女☆伊莉雅 第二季续篇",
         "titleJPN": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイヘルツ!",
-        "bgmID": "#bgm0509",
-        "bgmInfoID": "#info0509",
+        "bgmID": "#bgm0510",
+        "bgmInfoID": "#info0510",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
