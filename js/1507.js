@@ -410,11 +410,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0405",
         "weekday": "4",
         "bgmTime": "19:30",
-        "episodeThisWeek": "39",
+        "episodeThisWeek": "40",
         "episodeTotal": "51",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrooba0s.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroo2uu4.html"
         }
     },
     {
@@ -424,17 +424,17 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0406",
         "weekday": "4",
         "bgmTime": "22:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroob4lc.html",
-        "bili": "http://www.bilibili.com/video/av2516731/",
-        "letv": "http://www.letv.com/ptv/vplay/23045136.html",
-        "pptv": "http://v.pptv.com/show/0XlT0TmfD02wLpY.html",
-        "tx": "http://v.qq.com/cover/s/s8q3rwmi1vcyhuu.html",
-        "tudou": "http://www.tudou.com/albumplay/dIoKgU-j9O4/1MfeYIUS7Qw.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NTcyMjE3Ng==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroo2r0c.html",
+        "bili": "http://www.bilibili.com/video/av2548623/",
+        "letv": "http://www.letv.com/ptv/vplay/23081143.html",
+        "pptv": "http://v.pptv.com/show/12tl4pvXzgxv7VU.html",
+        "tx": "http://v.qq.com/cover/s/s8q3rwmi1vcyhuu/x00178riupf.html",
+        "tudou": "http://www.tudou.com/albumplay/dIoKgU-j9O4/Z1j5ATahnXA.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MDYzNjk4OA==.html"
         }
     },
     {
@@ -444,13 +444,13 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0501",
         "weekday": "5",
         "bgmTime": "00:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2517885/",
-        "letv": "http://www.letv.com/ptv/vplay/23049135.html",
-        "tx": "http://v.qq.com/cover/9/90ono2pk2blgqwd/k0016c8xyca.html"
+        "bili": "http://www.bilibili.com/video/av2548664/",
+        "letv": "http://www.letv.com/ptv/vplay/23083194.html",
+        "tx": "http://v.qq.com/cover/9/90ono2pk2blgqwd.html"
         }
     },
     {
