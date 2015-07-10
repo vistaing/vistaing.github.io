@@ -438,10 +438,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "创圣的大天使LOGOS",
-        "titleJPN": "アクエリオンロゴス",
+        "titleCHN": "群居姐妹",
+        "titleJPN": "だんちがい",
         "bgmID": "#bgm0501",
         "bgmInfoID": "#info0501",
+        "weekday": "5",
+        "bgmTime": "00:10",
+        "episodeThisWeek": "01",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2548655/"
+        }
+    },
+    {
+        "titleCHN": "创圣的大天使LOGOS",
+        "titleJPN": "アクエリオンロゴス",
+        "bgmID": "#bgm0502",
+        "bgmInfoID": "#info0502",
         "weekday": "5",
         "bgmTime": "00:30",
         "episodeThisWeek": "02",
@@ -456,56 +470,56 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "乱步奇谭",
         "titleJPN": "乱歩奇譚 Game of Laplace",
-        "bgmID": "#bgm0502",
-        "bgmInfoID": "#info0502",
+        "bgmID": "#bgm0503",
+        "bgmInfoID": "#info0503",
         "weekday": "5",
         "bgmTime": "01:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2516730/",
-        "letv": "http://www.letv.com/ptv/vplay/23048019.html",
+        "bili": "http://www.bilibili.com/video/av2548771/",
+        "letv": "http://www.letv.com/ptv/vplay/23083199.html",
         "matong": "about:blank",
-        "tx": "http://v.qq.com/cover/a/a3xvy009de4vael.html",
-        "tudou": "http://www.tudou.com/albumplay/bONAn7JK874/kbutEnOnKOA.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NTgzNTM0NA==.html"
+        "tx": "http://v.qq.com/cover/a/a3xvy009de4vael/l0017tsj7kp.html",
+        "tudou": "http://www.tudou.com/albumplay/bONAn7JK874/yvoGquQ25YY.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MTExNDkyNA==.html"
         }
     },
     {
         "titleCHN": "学园孤岛",
         "titleJPN": "がっこうぐらし!",
-        "bgmID": "#bgm0503",
-        "bgmInfoID": "#info0503",
+        "bgmID": "#bgm0504",
+        "bgmInfoID": "#info0504",
         "weekday": "5",
         "bgmTime": "02:00",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/sp/%E5%AD%A6%E5%9B%AD%E5%AD%A4%E5%B2%9B",
-        "tx": "http://v.qq.com/cover/f/f6za0go0jf6fzrm/a0016rsrwte.html"
+        "bili": "http://www.bilibili.com/video/av2548800/",
+        "tx": "http://v.qq.com/cover/f/f6za0go0jf6fzrm/k00170o04qz.html"
         }
     },
     {
         "titleCHN": "城下町的蒲公英",
         "titleJPN": "城下町のダンデライオン",
-        "bgmID": "#bgm0504",
-        "bgmInfoID": "#info0504",
+        "bgmID": "#bgm0505",
+        "bgmInfoID": "#info0505",
         "weekday": "5",
         "bgmTime": "08:00",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "pptv": "http://v.pptv.com/show/j0uFAmrQQH7hX8c.html"
+        "pptv": "http://v.pptv.com/show/E02KCRlYQXiciaYMg.html"
         }
     },
     {
         "titleCHN": "黑塔利亚 第6期",
         "titleJPN": "ヘタリア The World Twinkle",
-        "bgmID": "#bgm0505",
-        "bgmInfoID": "#info0505",
+        "bgmID": "#bgm0506",
+        "bgmInfoID": "#info0506",
         "weekday": "5",
         "bgmTime": "12:00",
         "episodeThisWeek": "02",
@@ -518,8 +532,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "青春×机关枪",
         "titleJPN": "青春×機関銃",
-        "bgmID": "#bgm0506",
-        "bgmInfoID": "#info0506",
+        "bgmID": "#bgm0507",
+        "bgmInfoID": "#info0507",
         "weekday": "5",
         "bgmTime": "21:00",
         "episodeThisWeek": "01",
@@ -535,8 +549,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "若叶少女",
         "titleJPN": "わかば＊ガール",
-        "bgmID": "#bgm0507",
-        "bgmInfoID": "#info0507",
+        "bgmID": "#bgm0508",
+        "bgmInfoID": "#info0508",
         "weekday": "5",
         "bgmTime": "22:00",
         "episodeThisWeek": "01",
@@ -549,8 +563,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "乌瑟的穷困生活 梦幻篇",
         "titleJPN": "うーさーのその日暮らし 夢幻編",
-        "bgmID": "#bgm0508",
-        "bgmInfoID": "#info0508",
+        "bgmID": "#bgm0509",
+        "bgmInfoID": "#info0509",
         "weekday": "5",
         "bgmTime": "22:20",
         "episodeThisWeek": "01",
@@ -563,8 +577,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "偶像大师 灰姑娘女孩 第2期",
         "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
-        "bgmID": "#bgm0509",
-        "bgmInfoID": "#info0509",
+        "bgmID": "#bgm0510",
+        "bgmInfoID": "#info0510",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
@@ -584,8 +598,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "魔法少女☆伊莉雅 第二季续篇",
         "titleJPN": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイヘルツ!",
-        "bgmID": "#bgm0510",
-        "bgmInfoID": "#info0510",
+        "bgmID": "#bgm0511",
+        "bgmInfoID": "#info0511",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
