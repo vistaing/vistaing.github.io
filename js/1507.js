@@ -33,10 +33,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "六花的勇者",
-        "titleJPN": "六花の勇者",
+        "titleCHN": "没有下流概念的无聊世界",
+        "titleJPN": "下ネタという概念が存在しない退屈な世界",
         "bgmID": "#bgm0703",
         "bgmInfoID": "#info0703",
+        "weekday": "0",
+        "bgmTime": "02:00",
+        "episodeThisWeek": "01",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2524522/"
+        }
+    },
+    {
+        "titleCHN": "六花的勇者",
+        "titleJPN": "六花の勇者",
+        "bgmID": "#bgm0704",
+        "bgmInfoID": "#info0704",
         "weekday": "0",
         "bgmTime": "03:30",
         "episodeThisWeek": "01",
@@ -56,8 +70,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "科学小飞侠 Crowds insight",
         "titleJPN": "ガッチャマン クラウズ インサイト",
-        "bgmID": "#bgm0704",
-        "bgmInfoID": "#info0704",
+        "bgmID": "#bgm0705",
+        "bgmInfoID": "#info0705",
         "weekday": "0",
         "bgmTime": "04:30",
         "episodeThisWeek": "01",
@@ -71,8 +85,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "境界触发者",
         "titleJPN": "ワールドトリガー",
-        "bgmID": "#bgm0705",
-        "bgmInfoID": "#info0705",
+        "bgmID": "#bgm0706",
+        "bgmInfoID": "#info0706",
         "weekday": "0",
         "bgmTime": "11:00",
         "episodeThisWeek": "37",
@@ -85,8 +99,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "龙珠超",
         "titleJPN": "ドラゴンボール超",
-        "bgmID": "#bgm0706",
-        "bgmInfoID": "#info0706",
+        "bgmID": "#bgm0707",
+        "bgmInfoID": "#info0707",
         "weekday": "0",
         "bgmTime": "11:00",
         "episodeThisWeek": "01",
@@ -99,8 +113,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "Go Princess 光之美少女",
         "titleJPN": "Go！プリンセスプリキュア",
-        "bgmID": "#bgm0707",
-        "bgmInfoID": "#info0707",
+        "bgmID": "#bgm0708",
+        "bgmInfoID": "#info0708",
         "weekday": "0",
         "bgmTime": "12:30",
         "episodeThisWeek": "22",
@@ -113,8 +127,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "亚尔斯兰战记",
         "titleJPN": "アルスラーン戦記",
-        "bgmID": "#bgm0708",
-        "bgmInfoID": "#info0708",
+        "bgmID": "#bgm0709",
+        "bgmInfoID": "#info0709",
         "weekday": "0",
         "bgmTime": "22:00",
         "episodeThisWeek": "13.5",
@@ -133,8 +147,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "噬神者",
         "titleJPN": "GOD EATER",
-        "bgmID": "#bgm0709",
-        "bgmInfoID": "#info0709",
+        "bgmID": "#bgm0710",
+        "bgmInfoID": "#info0710",
         "weekday": "0",
         "bgmTime": "22:30",
         "episodeThisWeek": "00",
@@ -152,8 +166,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "圣斗士星矢 黄金魂",
         "titleJPN": "聖闘士星矢 黄金魂",
-        "bgmID": "#bgm0710",
-        "bgmInfoID": "#info0710",
+        "bgmID": "#bgm0711",
+        "bgmInfoID": "#info0711",
         "weekday": "0",
         "bgmTime": "23:30",
         "episodeThisWeek": "07",
@@ -688,26 +702,12 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "没有下流概念的无聊世界",
-        "titleJPN": "下ネタという概念が存在しない退屈な世界",
+        "titleCHN": "无头骑士异闻录×2 转",
+        "titleJPN": "デュラララ!!×2 転",
         "bgmID": "#bgm0606",
         "bgmInfoID": "#info0606",
         "weekday": "6",
-        "bgmTime": "22:00",
-        "episodeThisWeek": "01",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "bili": "http://www.bilibili.com/video/av2524522/"
-        }
-    },
-    {
-        "titleCHN": "无头骑士异闻录×2 转",
-        "titleJPN": "デュラララ!!×2 転",
-        "bgmID": "#bgm0607",
-        "bgmInfoID": "#info0607",
-        "weekday": "6",
-        "bgmTime": "22:30",
+        "bgmTime": "23:30",
         "episodeThisWeek": "01",
         "episodeTotal": "12",
         "linklist":
