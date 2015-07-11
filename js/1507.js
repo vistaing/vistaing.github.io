@@ -617,11 +617,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0601",
         "weekday": "6",
         "bgmTime": "00:05",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "tx": "http://v.qq.com/detail/o/ouwrkn72batk58k.html"
+        "tx": "http://v.qq.com/cover/o/ouwrkn72batk58k.html"
         }
     },
     {
@@ -631,12 +631,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0602",
         "weekday": "6",
         "bgmTime": "01:00",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "39",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/UW8uUaXCUQg/bH0teo0pSHQ.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NjM2MjcyMA==.html"
+        "tudou": "http://www.tudou.com/albumplay/UW8uUaXCUQg/zH7Pi9lrAfE.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MTY1MjQ3Ng==.html"
         }
     },
     {
@@ -646,13 +646,13 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0603",
         "weekday": "6",
         "bgmTime": "02:10",
-        "episodeThisWeek": "14",
+        "episodeThisWeek": "15",
         "episodeTotal": "16",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2521012/",
-        "letv": "http://www.letv.com/ptv/vplay/23053670.html",
-        "tx": "http://v.qq.com/cover/l/l2h6j510vy2r11e/d0016n5jyu3.html",
+        "bili": "http://www.bilibili.com/video/av2553899/",
+        "letv": "http://www.letv.com/ptv/vplay/23089275.html",
+        "tx": "http://v.qq.com/cover/l/l2h6j510vy2r11e/p0017tjfgu7.html",
         "tudou": "http://www.tudou.com/albumplay/ElqA9e3gel0/zctdEoorcwI.html",
         "youku": "http://v.youku.com/v_show/id_XMTI3NjU2NzYyMA==.html"
         }
@@ -664,11 +664,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0604",
         "weekday": "6",
         "bgmTime": "02:25",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2521019/"
+        "bili": "http://www.bilibili.com/video/av2553907/"
         }
     },
     {
