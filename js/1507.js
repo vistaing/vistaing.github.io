@@ -6,16 +6,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0701",
         "weekday": "0",
         "bgmTime": "00:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroomfjs.html",
-        "bili": "http://www.bilibili.com/video/av2524490/",
-        "letv": "http://www.letv.com/ptv/vplay/23056727.html",
-        "tx": "http://v.qq.com/cover/k/keh8jx4nea7e5w0.html",
-        "tudou": "http://www.tudou.com/albumplay/tO8jG72LwdY.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NzA2NzgxMg==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rron5p00.html",
+        "bili": "http://www.bilibili.com/video/av2559099/",
+        "letv": "http://www.letv.com/ptv/vplay/23089184.html",
+        "tx": "http://v.qq.com/cover/k/keh8jx4nea7e5w0/m00175duluo.html",
+        "tudou": "http://www.tudou.com/albumplay/tO8jG72LwdY/VClgLIGZocg.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MjQzOTI3Ng==.html"
         }
     },
     {
@@ -25,11 +25,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0702",
         "weekday": "0",
         "bgmTime": "01:00",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2524510/"
+        "bili": "http://www.bilibili.com/video/av2559104/"
         }
     },
     {
@@ -39,11 +39,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0703",
         "weekday": "0",
         "bgmTime": "02:00",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2524522/"
+        "bili": "http://www.bilibili.com/video/av2559110/"
         }
     },
     {
@@ -53,18 +53,18 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0704",
         "weekday": "0",
         "bgmTime": "03:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroomjxw.html",
-        "bili": "http://www.bilibili.com/video/av2524533/",
-        "letv": "http://www.letv.com/ptv/vplay/23057637.html",
-        "matong": "about:blank",
-        "pptv": "http://v.pptv.com/show/vWJu7edya6kMiavI.html",
-        "tx": "http://v.qq.com/cover/e/ekcyxmd6r13mh6o.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rron5fe8.html",
+        "bili": "http://www.bilibili.com/video/av2559116/",
+        "letv": "http://www.letv.com/ptv/vplay/23093195.html",
+        "matong": "http://www.hunantv.com/v/7/157293/f/1728327.html",
+        "pptv": "http://v.pptv.com/show/YV6XFO5rUpDzcdk.html",
+        "tx": "http://v.qq.com/cover/e/ekcyxmd6r13mh6o/x00177p57po.html",
         "tudou": "http://www.tudou.com/albumplay/8nSAQ0J0quI.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NzMxMzIxMg==.html"
+        "youku": "http://v.youku.com/v_show/id_XMTI4MjYyNzMxMg==.html"
         }
     },
     {
@@ -74,12 +74,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0705",
         "weekday": "0",
         "bgmTime": "04:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
         "tudou": "http://www.tudou.com/albumplay/wk_5UB9cfe4.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NzI1ODUyNA==.html"
+        "youku": "http://v.youku.com/v_show/id_XMTI4MjMxMTgwOA==.html"
         }
     },
     {
@@ -107,7 +107,7 @@ var datasource={"bgm1507": [
         "episodeTotal": "26",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroopiy0.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rron6a1o.html",
         }
     },
     {
@@ -494,7 +494,7 @@ var datasource={"bgm1507": [
         {
         "bili": "http://www.bilibili.com/video/av2548771/",
         "letv": "http://www.letv.com/ptv/vplay/23083199.html",
-        "matong": "about:blank",
+        "matong": "http://www.hunantv.com/v/7/157292/f/1726943.html",
         "tx": "http://v.qq.com/cover/a/a3xvy009de4vael/l0017tsj7kp.html",
         "tudou": "http://www.tudou.com/albumplay/bONAn7JK874/yvoGquQ25YY.html",
         "youku": "http://v.youku.com/v_show/id_XMTI4MTExNDkyNA==.html"
@@ -589,10 +589,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "偶像大师 灰姑娘女孩 第2期",
-        "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
+        "titleCHN": "黑白小姐 第二季",
+        "titleJPN": "ミス・モノクローム",
         "bgmID": "#bgm0510",
         "bgmInfoID": "#info0510",
+        "weekday": "5",
+        "bgmTime": "23:30",
+        "episodeThisWeek": "02",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2554317/"
+        }
+    },
+    {
+        "titleCHN": "偶像大师 灰姑娘女孩 第2期",
+        "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
+        "bgmID": "#bgm0511",
+        "bgmInfoID": "#info0511",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
@@ -612,8 +626,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "魔法少女☆伊莉雅 第二季续篇",
         "titleJPN": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイヘルツ!",
-        "bgmID": "#bgm0511",
-        "bgmInfoID": "#info0511",
+        "bgmID": "#bgm0512",
+        "bgmInfoID": "#info0512",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
@@ -708,15 +722,15 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0606",
         "weekday": "6",
         "bgmTime": "23:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroolao8.html",
-        "bili": "http://www.bilibili.com/video/av2524472/",
-        "tx": "http://v.qq.com/cover/4/4gmobofw9fltve9.html",
-        "tudou": "http://www.tudou.com/albumplay/Se7oGWDr_GA/2L8fKzQwmSY.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NzI5NTQ3Mg==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rron5tes.html",
+        "bili": "http://www.bilibili.com/video/av2559096/",
+        "tx": "http://v.qq.com/cover/4/4gmobofw9fltve9/e0017ubt00i.html",
+        "tudou": "http://www.tudou.com/albumplay/Se7oGWDr_GA/Lyi-WCz4aaY.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MjYwMDc0OA==.html"
         }
     }
 ]
