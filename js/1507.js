@@ -131,17 +131,17 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0709",
         "weekday": "0",
         "bgmTime": "22:00",
-        "episodeThisWeek": "13.5",
+        "episodeThisWeek": "14",
         "episodeTotal": "24",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroopcx4.html",
-        "bili": "http://www.bilibili.com/video/av2530332/",
-        "letv": "http://www.letv.com/ptv/vplay/23061188.html",
-        "pptv": "http://v.pptv.com/show/O9chnjlEPXveXMQ.html",
-        "tx": "http://v.qq.com/cover/2/2nqzaniq3tunys1/m0016c4czsp.html",
-        "tudou": "http://www.tudou.com/albumplay/Ko7krCYz4w4/WfcEnBwlFkM.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3ODAwNjE1Ng==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rron4ob0.html",
+        "bili": "http://www.bilibili.com/video/av2563809/",
+        "letv": "http://www.letv.com/ptv/vplay/23096691.html",
+        "pptv": "http://v.pptv.com/show/Obw5tmHs1RN29Fw.html",
+        "tx": "http://v.qq.com/cover/2/2nqzaniq3tunys1/n00176hoq50.html",
+        "tudou": "http://www.tudou.com/albumplay/Ko7krCYz4w4/UkJku0_lSf0.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MzMxMDUxMg==.html"
         }
     },
     {
@@ -151,16 +151,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0710",
         "weekday": "0",
         "bgmTime": "22:30",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
+        "episodeThisWeek": "01",
+        "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrooo574.html",
-        "bili": "http://www.bilibili.com/sp/%E5%99%AC%E7%A5%9E%E8%80%85",
-        "letv": "http://www.letv.com/ptv/vplay/23061131.html",
-        "tx": "http://v.qq.com/cover/w/wdp6c3tyxfha0l8.html",
-        "tudou": "http://www.tudou.com/albumplay/n3RSRsUtHhk/sRUOyslT6s0.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NzY4MTY0NA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rron4u1g.html",
+        "bili": "http://www.bilibili.com/video/av2563821/",
+        "letv": "http://www.letv.com/ptv/vplay/23095477.html",
+        "tx": "http://v.qq.com/cover/w/wdp6c3tyxfha0l8/v0017h81oke.html",
+        "tudou": "http://www.tudou.com/albumplay/n3RSRsUtHhk/6BHs7Z-TOs0.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MjYyMzQyMA==.html"
         }
     },
     {
