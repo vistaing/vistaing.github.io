@@ -103,7 +103,7 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0707",
         "weekday": "0",
         "bgmTime": "11:00",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "26",
         "linklist":
         {
@@ -125,10 +125,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "亚尔斯兰战记",
-        "titleJPN": "アルスラーン戦記",
+        "titleCHN": "和歌子酒",
+        "titleJPN": "ワカコ酒 ",
         "bgmID": "#bgm0709",
         "bgmInfoID": "#info0709",
+        "weekday": "0",
+        "bgmTime": "21:30",
+        "episodeThisWeek": "02",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2563802/",
+        }
+    },
+    {
+        "titleCHN": "亚尔斯兰战记",
+        "titleJPN": "アルスラーン戦記",
+        "bgmID": "#bgm0710",
+        "bgmInfoID": "#info0710",
         "weekday": "0",
         "bgmTime": "22:00",
         "episodeThisWeek": "14",
@@ -147,8 +161,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "噬神者",
         "titleJPN": "GOD EATER",
-        "bgmID": "#bgm0710",
-        "bgmInfoID": "#info0710",
+        "bgmID": "#bgm0711",
+        "bgmInfoID": "#info0711",
         "weekday": "0",
         "bgmTime": "22:30",
         "episodeThisWeek": "01",
@@ -166,8 +180,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "圣斗士星矢 黄金魂",
         "titleJPN": "聖闘士星矢 黄金魂",
-        "bgmID": "#bgm0711",
-        "bgmInfoID": "#info0711",
+        "bgmID": "#bgm0712",
+        "bgmInfoID": "#info0712",
         "weekday": "0",
         "bgmTime": "23:30",
         "episodeThisWeek": "07",
@@ -184,12 +198,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0101",
         "weekday": "1",
         "bgmTime": "17:00",
-        "episodeThisWeek": "13",
+        "episodeThisWeek": "15",
         "episodeTotal": "25",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/XZptOiXSN6Y/RVsN-n9qmhI.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3MzMwNjIzNg==.html"
+        "tudou": "http://www.tudou.com/albumplay/XZptOiXSN6Y/Bt0mBYhxW0k.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4MzkzMTAzMg==.html"
         }
     },
     {
@@ -199,11 +213,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0102",
         "weekday": "1",
         "bgmTime": "22:00",
-        "episodeThisWeek": "11",
+        "episodeThisWeek": "12",
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rronl544.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rronanvs.html"
         }
     },
     {
@@ -213,11 +227,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0201",
         "weekday": "2",
         "bgmTime": "00:20",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2535315/",
+        "bili": "http://www.bilibili.com/video/av2568625/",
         }
     },
     {
@@ -227,11 +241,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0202",
         "weekday": "2",
         "bgmTime": "00:15",
-        "episodeThisWeek": "00",
+        "episodeThisWeek": "01",
         "episodeTotal": "??",
         "linklist":
         {
-        "tx": "http://v.qq.com/cover/v/vxk0pmz40gf0hz0.html"
+        "tx": "http://v.qq.com/cover/v/vxk0pmz40gf0hz0/d00173vovrr.html"
         }
     },
     {
@@ -241,12 +255,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0203",
         "weekday": "2",
         "bgmTime": "00:35",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/XJZSLm81Y-8/7DV4ff9rCfs.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3NzA0MjQ1Mg==.html"
+        "tudou": "http://www.tudou.com/albumplay/XJZSLm81Y-8/6fnIlDX1r4I.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4Mjk5MTMyMA==.html"
         }
     },
     {
@@ -256,12 +270,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0204",
         "weekday": "2",
         "bgmTime": "01:05",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/-3O0GyT_JkQ/rJX5IsP-d4Y.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3ODI4OTU1Ng==.html"
+        "tudou": "http://www.tudou.com/albumplay/-3O0GyT_JkQ/HFWyecFemdo.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4NDA3ODgxNg==.html"
         }
     },
     {
@@ -271,16 +285,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0205",
         "weekday": "2",
         "bgmTime": "02:30",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "??",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rronkqyo.html",
-        "bili": "http://www.bilibili.com/video/av2535319/",
-        "pptv": "http://v.pptv.com/show/g6aSEHjeTozvbdU.html",
-        "tx": "http://v.qq.com/cover/2/2hndczgdvkpzff5.html",
-        "tudou": "http://www.tudou.com/albumplay/StDyVAcEEkA/G2tuTDP-o_0.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI3ODg0MzQyNA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrona64w.html",
+        "bili": "http://www.bilibili.com/video/av2568636/",
+        "pptv": "http://v.pptv.com/show/IbdAv6S1rOpNyzM.html",
+        "tx": "http://v.qq.com/cover/2/2hndczgdvkpzff5/q0017lkplwc.html",
+        "tudou": "http://www.tudou.com/albumplay/StDyVAcEEkA/OCCqgSeJtYg.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4NDEyMzA0OA==.html"
         }
     },
     {
