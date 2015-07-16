@@ -438,11 +438,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0405",
         "weekday": "4",
         "bgmTime": "19:30",
-        "episodeThisWeek": "40",
+        "episodeThisWeek": "41",
         "episodeTotal": "51",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroo2uu4.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rromm5jg.html"
         }
     },
     {
@@ -452,17 +452,17 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0406",
         "weekday": "4",
         "bgmTime": "22:30",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroo2r0c.html",
-        "bili": "http://www.bilibili.com/video/av2548623/",
-        "letv": "http://www.letv.com/ptv/vplay/23081143.html",
-        "pptv": "http://v.pptv.com/show/12tl4pvXzgxv7VU.html",
-        "tx": "http://v.qq.com/cover/s/s8q3rwmi1vcyhuu/x00178riupf.html",
-        "tudou": "http://www.tudou.com/albumplay/dIoKgU-j9O4/Z1j5ATahnXA.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI4MDYzNjk4OA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rromlmsg.html",
+        "bili": "http://www.bilibili.com/video/av2582702/",
+        "letv": "http://www.letv.com/ptv/vplay/23117341.html",
+        "pptv": "http://v.pptv.com/show/Vw7HRP19ZKIFgibs.html",
+        "tx": "http://v.qq.com/cover/s/s8q3rwmi1vcyhuu/t0017nv3bf7.html",
+        "tudou": "http://www.tudou.com/albumplay/dIoKgU-j9O4/heLNgeyXL6o.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4NTc1NjYwOA==.html"
         }
     },
     {
