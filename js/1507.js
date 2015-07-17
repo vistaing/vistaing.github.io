@@ -564,14 +564,14 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0507",
         "weekday": "5",
         "bgmTime": "21:00",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rromyzps.html",
-        "bili": "http://www.bilibili.com/video/av2553890/",
-        "pptv": "http://v.pptv.com/show/kicP8e7u9pOJFwys.html",
-        "tx": "http://v.qq.com/cover/1/1f1gzzkyhi264mg/i0017civnrc.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rromqcpo.html",
+        "bili": "http://www.bilibili.com/video/av2587073/",
+        "pptv": "http://v.pptv.com/show/8aUysQFTSojradE.html",
+        "tx": "http://v.qq.com/cover/1/1f1gzzkyhi264mg/h00172b9vb5.html"
         }
     },
     {
@@ -581,11 +581,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0508",
         "weekday": "5",
         "bgmTime": "22:00",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2553895/"
+        "bili": "http://www.bilibili.com/video/av2587080/"
         }
     },
     {
@@ -595,11 +595,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0509",
         "weekday": "5",
         "bgmTime": "22:20",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "13",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2553897/"
+        "bili": "http://www.bilibili.com/video/av2587074/"
         }
     },
     {
@@ -609,39 +609,18 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0510",
         "weekday": "5",
         "bgmTime": "23:30",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2554317/"
-        }
-    },
-    {
-        "titleCHN": "偶像大师 灰姑娘女孩 第2期",
-        "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
-        "bgmID": "#bgm0511",
-        "bgmInfoID": "#info0511",
-        "weekday": "5",
-        "bgmTime": "00:00",
-        "episodeThisWeek": "00",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "iqiyi": "about:blank",
-        "bili": "about:blank",
-        "letv": "about:blank",
-        "pptv": "about:blank",
-        "thunder": "about:blank",
-        "tx": "about:blank",
-        "tudou": "about:blank",
-        "youku": "about:blank"
+        "bili": "http://www.bilibili.com/video/av2587082/"
         }
     },
     {
         "titleCHN": "魔法少女☆伊莉雅 第二季续篇",
         "titleJPN": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイヘルツ!",
-        "bgmID": "#bgm0512",
-        "bgmInfoID": "#info0512",
+        "bgmID": "#bgm0511",
+        "bgmInfoID": "#info0511",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
@@ -667,10 +646,31 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "潮与虎",
-        "titleJPN": "うしおととら",
+        "titleCHN": "偶像大师 灰姑娘女孩 第2期",
+        "titleJPN": "アイドルマスター シンデレラガールズ 第2期",
         "bgmID": "#bgm0602",
         "bgmInfoID": "#info0602",
+        "weekday": "6",
+        "bgmTime": "00:30",
+        "episodeThisWeek": "13",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "iqiyi": "http://www.iqiyi.com/v_19rrnm1o4k.html",
+        "bili": "http://www.bilibili.com/bangumi/%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%88%20%E7%81%B0%E5%A7%91%E5%A8%98%E5%A5%B3%E5%AD%A9%20%E7%AC%AC%E4%BA%8C%E5%AD%A3/",
+        "letv": "http://www.letv.com/ptv/vplay/22463703.html",
+        "pptv": "http://v.pptv.com/show/86skowtx4RibCAGg.html",
+        "thunder": "http://vod.kankan.com/v/87/87458.shtml",
+        "tx": "http://v.qq.com/cover/w/wgzklo5zkrgalda.html",
+        "tudou": "http://www.tudou.com/albumplay/qgdKuHlPg9g/LLZ4CFTl_nM.html",
+        "youku": "http://v.youku.com/v_show/id_XOTMxMjQ5OTA0.html"
+        }
+    },
+    {
+        "titleCHN": "潮与虎",
+        "titleJPN": "うしおととら",
+        "bgmID": "#bgm0603",
+        "bgmInfoID": "#info0603",
         "weekday": "6",
         "bgmTime": "01:00",
         "episodeThisWeek": "02",
@@ -684,8 +684,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "小长门有希的消失",
         "titleJPN": "長門有希ちゃんの消失",
-        "bgmID": "#bgm0603",
-        "bgmInfoID": "#info0603",
+        "bgmID": "#bgm0604",
+        "bgmInfoID": "#info0604",
         "weekday": "6",
         "bgmTime": "02:10",
         "episodeThisWeek": "15",
@@ -702,8 +702,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "教室☆危机",
         "titleJPN": "Classroom☆Crisis",
-        "bgmID": "#bgm0604",
-        "bgmInfoID": "#info0604",
+        "bgmID": "#bgm0605",
+        "bgmInfoID": "#info0605",
         "weekday": "6",
         "bgmTime": "02:25",
         "episodeThisWeek": "02",
@@ -716,8 +716,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "食戟之灵",
         "titleJPN": "食戟のソーマ",
-        "bgmID": "#bgm0605",
-        "bgmInfoID": "#info0605",
+        "bgmID": "#bgm0606",
+        "bgmInfoID": "#info0606",
         "weekday": "6",
         "bgmTime": "04:40",
         "episodeThisWeek": "14",
@@ -732,8 +732,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "无头骑士异闻录×2 转",
         "titleJPN": "デュラララ!!×2 転",
-        "bgmID": "#bgm0606",
-        "bgmInfoID": "#info0606",
+        "bgmID": "#bgm0607",
+        "bgmInfoID": "#info0607",
         "weekday": "6",
         "bgmTime": "23:30",
         "episodeThisWeek": "02",
