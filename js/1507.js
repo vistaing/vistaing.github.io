@@ -432,10 +432,24 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "偶像活动 第三季",
-        "titleJPN": "アイカツ!三年目",
+        "titleCHN": "黑塔利亚 第6期",
+        "titleJPN": "ヘタリア The World Twinkle",
         "bgmID": "#bgm0405",
         "bgmInfoID": "#info0405",
+        "weekday": "4",
+        "bgmTime": "12:00",
+        "episodeThisWeek": "03",
+        "episodeTotal": "??",
+        "linklist":
+        {
+        "bili": "http://www.bilibili.com/video/av2580198/"
+        }
+    },
+    {
+        "titleCHN": "偶像活动 第三季",
+        "titleJPN": "アイカツ!三年目",
+        "bgmID": "#bgm0406",
+        "bgmInfoID": "#info0406",
         "weekday": "4",
         "bgmTime": "19:30",
         "episodeThisWeek": "41",
@@ -448,8 +462,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "混沌之龙",
         "titleJPN": "ケイオスドラゴン 赤竜戦役",
-        "bgmID": "#bgm0406",
-        "bgmInfoID": "#info0406",
+        "bgmID": "#bgm0407",
+        "bgmInfoID": "#info0407",
         "weekday": "4",
         "bgmTime": "22:30",
         "episodeThisWeek": "03",
@@ -544,24 +558,10 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "黑塔利亚 第6期",
-        "titleJPN": "ヘタリア The World Twinkle",
-        "bgmID": "#bgm0506",
-        "bgmInfoID": "#info0506",
-        "weekday": "5",
-        "bgmTime": "12:00",
-        "episodeThisWeek": "03",
-        "episodeTotal": "??",
-        "linklist":
-        {
-        "bili": "http://www.bilibili.com/video/av2580198/"
-        }
-    },
-    {
         "titleCHN": "青春×机关枪",
         "titleJPN": "青春×機関銃",
-        "bgmID": "#bgm0507",
-        "bgmInfoID": "#info0507",
+        "bgmID": "#bgm0506",
+        "bgmInfoID": "#info0506",
         "weekday": "5",
         "bgmTime": "21:00",
         "episodeThisWeek": "03",
@@ -577,8 +577,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "若叶少女",
         "titleJPN": "わかば＊ガール",
-        "bgmID": "#bgm0508",
-        "bgmInfoID": "#info0508",
+        "bgmID": "#bgm0507",
+        "bgmInfoID": "#info0507",
         "weekday": "5",
         "bgmTime": "22:00",
         "episodeThisWeek": "03",
@@ -591,8 +591,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "乌瑟的穷困生活 梦幻篇",
         "titleJPN": "うーさーのその日暮らし 夢幻編",
-        "bgmID": "#bgm0509",
-        "bgmInfoID": "#info0509",
+        "bgmID": "#bgm0508",
+        "bgmInfoID": "#info0508",
         "weekday": "5",
         "bgmTime": "22:20",
         "episodeThisWeek": "03",
@@ -605,8 +605,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "黑白小姐 第二季",
         "titleJPN": "ミス・モノクローム",
-        "bgmID": "#bgm0510",
-        "bgmInfoID": "#info0510",
+        "bgmID": "#bgm0509",
+        "bgmInfoID": "#info0509",
         "weekday": "5",
         "bgmTime": "23:30",
         "episodeThisWeek": "03",
@@ -619,8 +619,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "魔法少女☆伊莉雅 第二季续篇",
         "titleJPN": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイヘルツ!",
-        "bgmID": "#bgm0511",
-        "bgmInfoID": "#info0511",
+        "bgmID": "#bgm0510",
+        "bgmInfoID": "#info0510",
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
