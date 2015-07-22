@@ -304,11 +304,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0301",
         "weekday": "3",
         "bgmTime": "00:30",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "??",
         "linklist":
         {
-        "tx": "http://v.qq.com/cover/8/8yjy00f3wg1tz63/f0017phfak2.html"
+        "tx": "http://v.qq.com/cover/8/8yjy00f3wg1tz63/u0017k0bcrx.html"
         }
     },
     {
@@ -318,11 +318,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0302",
         "weekday": "3",
         "bgmTime": "01:20",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2573526/"
+        "bili": "http://www.bilibili.com/video/av2606917/"
         }
     },
     {
@@ -332,11 +332,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0303",
         "weekday": "3",
         "bgmTime": "04:30",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2573536/"
+        "bili": "http://www.bilibili.com/video/av2606998/"
         }
     },
     {
