@@ -346,12 +346,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0304",
         "weekday": "3",
         "bgmTime": "18:00",
-        "episodeThisWeek": "280",
+        "episodeThisWeek": "281",
         "episodeTotal": "???",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/hUNvz9q2qq8.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI4NDUxMTI0OA==.html"
+        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/khUVLoF1Aw4.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI5MDUyMzAwMA==.html"
         }
     },
     {
