@@ -438,11 +438,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0405",
         "weekday": "4",
         "bgmTime": "12:00",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "04",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2580198/"
+        "bili": "http://www.bilibili.com/video/av2614921/"
         }
     },
     {
@@ -452,11 +452,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0406",
         "weekday": "4",
         "bgmTime": "19:30",
-        "episodeThisWeek": "41",
+        "episodeThisWeek": "42",
         "episodeTotal": "51",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rromm5jg.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrol31ag.html"
         }
     },
     {
@@ -466,17 +466,17 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0407",
         "weekday": "4",
         "bgmTime": "22:30",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "04",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rromlmsg.html",
-        "bili": "http://www.bilibili.com/video/av2582702/",
-        "letv": "http://www.letv.com/ptv/vplay/23117341.html",
-        "pptv": "http://v.pptv.com/show/Vw7HRP19ZKIFgibs.html",
-        "tx": "http://v.qq.com/cover/s/s8q3rwmi1vcyhuu/t0017nv3bf7.html",
-        "tudou": "http://www.tudou.com/albumplay/dIoKgU-j9O4/heLNgeyXL6o.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI4NTc1NjYwOA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrol405k.html",
+        "bili": "http://www.bilibili.com/video/av2617441/",
+        "letv": "http://www.letv.com/ptv/vplay/23155103.html",
+        "pptv": "http://v.pptv.com/show/zxzaWfCAebcamAA.html",
+        "tx": "http://v.qq.com/cover/s/s8q3rwmi1vcyhuu/z0017us4kcl.html",
+        "tudou": "http://www.tudou.com/albumplay/dIoKgU-j9O4/OX3FGKqUsh4.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI5MDg0ODUwMA==.html"
         }
     },
     {
