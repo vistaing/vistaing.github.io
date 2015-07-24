@@ -192,10 +192,25 @@ var datasource={"bgm1507": [
         }
     },
     {
-        "titleCHN": "境界之轮回",
-        "titleJPN": "境界のRINNE",
+        "titleCHN": "网球优等生",
+        "titleJPN": "ベイビーステップ 第2シリーズ",
         "bgmID": "#bgm0101",
         "bgmInfoID": "#info0101",
+        "weekday": "1",
+        "bgmTime": "01:00",
+        "episodeThisWeek": "16",
+        "episodeTotal": "25",
+        "linklist":
+        {
+        "tudou": "http://www.tudou.com/albumplay/5EughhrPa3A/t4bZCDF1IG0.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI4ODY1NjY3Ng==.html"
+        }
+    },
+    {
+        "titleCHN": "境界之轮回",
+        "titleJPN": "境界のRINNE",
+        "bgmID": "#bgm0102",
+        "bgmInfoID": "#info0102",
         "weekday": "1",
         "bgmTime": "17:00",
         "episodeThisWeek": "16",
@@ -209,8 +224,8 @@ var datasource={"bgm1507": [
     {
         "titleCHN": "钻石王牌 第二季",
         "titleJPN": "ダイヤのA -SECOND SEASON-",
-        "bgmID": "#bgm0102",
-        "bgmInfoID": "#info0102",
+        "bgmID": "#bgm0103",
+        "bgmInfoID": "#info0103",
         "weekday": "1",
         "bgmTime": "22:00",
         "episodeThisWeek": "13",
@@ -486,11 +501,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0501",
         "weekday": "5",
         "bgmTime": "00:10",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2582704/"
+        "bili": "http://www.bilibili.com/video/av2617445/"
         }
     },
     {
@@ -500,13 +515,13 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0502",
         "weekday": "5",
         "bgmTime": "00:30",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "04",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2582707/",
-        "letv": "http://www.letv.com/ptv/vplay/23119815.html",
-        "tx": "http://v.qq.com/cover/9/90ono2pk2blgqwd/h00176f28wi.html"
+        "bili": "http://www.bilibili.com/video/av2617449/",
+        "letv": "http://www.letv.com/ptv/vplay/23157728.html",
+        "tx": "http://v.qq.com/cover/9/90ono2pk2blgqwd/r0017td4lkw.html"
         }
     },
     {
@@ -516,16 +531,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0503",
         "weekday": "5",
         "bgmTime": "01:30",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "04",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2582711/",
-        "letv": "http://www.letv.com/ptv/vplay/23120082.html",
-        "matong": "http://www.hunantv.com/v/7/157292/f/1731537.html",
-        "tx": "http://v.qq.com/cover/a/a3xvy009de4vael/x00170cxi8i.html",
-        "tudou": "http://www.tudou.com/albumplay/bONAn7JK874/tiu4EtiOER0.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI4NjQ0NDU1Mg==.html"
+        "bili": "http://www.bilibili.com/video/av2617450/",
+        "letv": "http://www.letv.com/ptv/vplay/23157737.html",
+        "matong": "http://www.hunantv.com/v/7/157292/f/1735990.html",
+        "tx": "http://v.qq.com/cover/a/a3xvy009de4vael/e0017senky7.html",
+        "tudou": "http://www.tudou.com/albumplay/bONAn7JK874/pXMwyRQyMTA.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI5MTk5MjI0OA==.html"
         }
     },
     {
@@ -535,12 +550,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0504",
         "weekday": "5",
         "bgmTime": "02:00",
-        "episodeThisWeek": "02",
+        "episodeThisWeek": "03",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2582714/",
-        "tx": "http://v.qq.com/cover/f/f6za0go0jf6fzrm/l0017gcvba8.html"
+        "bili": "http://www.bilibili.com/video/av2617461/",
+        "tx": "http://v.qq.com/cover/f/f6za0go0jf6fzrm/d00171jiqyj.html"
         }
     },
     {
@@ -550,11 +565,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0505",
         "weekday": "5",
         "bgmTime": "08:00",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "04",
         "episodeTotal": "??",
         "linklist":
         {
-        "pptv": "http://v.pptv.com/show/r3x59rbDuvhb2UE.html"
+        "pptv": "http://v.pptv.com/show/D1KcGwtGP33gXsY.html"
         }
     },
     {
@@ -604,7 +619,7 @@ var datasource={"bgm1507": [
     },
     {
         "titleCHN": "黑白小姐 第二季",
-        "titleJPN": "ミス・モノクローム",
+        "titleJPN": "ミス・モノクローム 第2期",
         "bgmID": "#bgm0509",
         "bgmInfoID": "#info0509",
         "weekday": "5",
@@ -624,7 +639,7 @@ var datasource={"bgm1507": [
         "weekday": "5",
         "bgmTime": "00:00",
         "episodeThisWeek": "00",
-        "episodeTotal": "??",
+        "episodeTotal": "10",
         "linklist":
         {
         "iqiyi": "about:blank",
