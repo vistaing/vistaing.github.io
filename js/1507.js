@@ -579,14 +579,14 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0506",
         "weekday": "5",
         "bgmTime": "21:00",
-        "episodeThisWeek": "04",
+        "episodeThisWeek": "05",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroldfy0.html",
-        "bili": "http://www.bilibili.com/video/av2622668/",
-        "pptv": "http://v.pptv.com/show/XbZAvic95YJ4Bfibc.html",
-        "tx": "http://v.qq.com/cover/1/1f1gzzkyhi264mg/y001751da0h.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroju060.html",
+        "bili": "http://www.bilibili.com/video/av2659006/",
+        "pptv": "http://v.pptv.com/show/OTeicPHz27y2QDnY.html",
+        "tx": "http://v.qq.com/cover/1/1f1gzzkyhi264mg/a0017dxb6j4.html"
         }
     },
     {
@@ -596,11 +596,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0507",
         "weekday": "5",
         "bgmTime": "22:00",
-        "episodeThisWeek": "04",
+        "episodeThisWeek": "05",
         "episodeTotal": "13",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2622678/"
+        "bili": "http://www.bilibili.com/video/av2659014/"
         }
     },
     {
@@ -610,11 +610,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0508",
         "weekday": "5",
         "bgmTime": "22:20",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "05",
         "episodeTotal": "13",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2587074/"
+        "bili": "http://www.bilibili.com/video/av2659011/"
         }
     },
     {
@@ -624,11 +624,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0509",
         "weekday": "5",
         "bgmTime": "23:30",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "05",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2622686/"
+        "bili": "http://www.bilibili.com/video/av2659026/"
         }
     },
     {
@@ -638,11 +638,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0601",
         "weekday": "6",
         "bgmTime": "00:05",
-        "episodeThisWeek": "03",
+        "episodeThisWeek": "04",
         "episodeTotal": "??",
         "linklist":
         {
-        "tx": "http://v.qq.com/cover/o/ouwrkn72batk58k/v00170r7a14.html"
+        "tx": "http://v.qq.com/cover/o/ouwrkn72batk58k/r0017caoxvi.html"
         }
     },
     {
@@ -652,18 +652,18 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0602",
         "weekday": "6",
         "bgmTime": "00:30",
-        "episodeThisWeek": "15",
+        "episodeThisWeek": "16",
         "episodeTotal": "25",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrolbloc.html",
-        "bili": "http://www.bilibili.com/video/av2622712/",
-        "letv": "http://www.letv.com/ptv/vplay/23163566.html",
-        "pptv": "http://v.pptv.com/show/A2Zw7yYoEUibyMJg.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rrojv4d8.html",
+        "bili": "http://www.bilibili.com/video/av2659056/",
+        "letv": "http://www.letv.com/ptv/vplay/23203193.html",
+        "pptv": "http://v.pptv.com/show/0VKcG7K8peNGxCw.html",
         "thunder": "http://vod.kankan.com/v/87/87458.shtml",
-        "tx": "http://v.qq.com/cover/w/wgzklo5zkrgalda/a0017qimotb.html",
-        "tudou": "http://www.tudou.com/albumplay/qgdKuHlPg9g/J5EnRcQYye0.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI5Mjc0ODYzMg==.html"
+        "tx": "http://v.qq.com/cover/w/wgzklo5zkrgalda/s0017jiozdr.html",
+        "tudou": "http://www.tudou.com/albumplay/qgdKuHlPg9g/ALxg5YIDbuQ.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI5ODIwMDc4OA==.html"
         }
     },
     {
@@ -673,12 +673,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0603",
         "weekday": "6",
         "bgmTime": "01:00",
-        "episodeThisWeek": "04",
+        "episodeThisWeek": "05",
         "episodeTotal": "39",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/UW8uUaXCUQg/8exzGN0Le7A.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI5Mjc0ODYzMg==.html"
+        "tudou": "http://www.tudou.com/albumplay/UW8uUaXCUQg/ajW5ESEksO0.html",
+        "youku": "http://v.youku.com/v_show/id_XMTI5ODIwMDc4OA==.html"
         }
     },
     {
@@ -688,67 +688,49 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0604",
         "weekday": "6",
         "bgmTime": "02:10",
-        "episodeThisWeek": "01",
+        "episodeThisWeek": "02",
         "episodeTotal": "10",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrolbk7k.html",
-        "bili": "http://www.bilibili.com/video/av2622692/"
-        }
-    },
-    {
-        "titleCHN": "小长门有希的消失",
-        "titleJPN": "長門有希ちゃんの消失",
-        "bgmID": "#bgm0605",
-        "bgmInfoID": "#info0605",
-        "weekday": "6",
-        "bgmTime": "02:10",
-        "episodeThisWeek": "16",
-        "episodeTotal": "16",
-        "linklist":
-        {
-        "bili": "http://www.bilibili.com/video/av2587092/",
-        "letv": "http://www.letv.com/ptv/vplay/23124958.html",
-        "tx": "http://v.qq.com/cover/l/l2h6j510vy2r11e/g00171o813u.html",
-        "tudou": "http://www.tudou.com/albumplay/ElqA9e3gel0/-GwUV4J5sHA.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI4NzI0MjcyOA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrojv0go.html",
+        "bili": "http://www.bilibili.com/video/av2659042/"
         }
     },
     {
         "titleCHN": "教室☆危机",
         "titleJPN": "Classroom☆Crisis",
-        "bgmID": "#bgm0606",
-        "bgmInfoID": "#info0606",
+        "bgmID": "#bgm0605",
+        "bgmInfoID": "#info0605",
         "weekday": "6",
         "bgmTime": "02:25",
-        "episodeThisWeek": "04",
+        "episodeThisWeek": "05",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2622695/"
+        "bili": "http://www.bilibili.com/video/av2659046/"
         }
     },
     {
         "titleCHN": "食戟之灵",
         "titleJPN": "食戟のソーマ",
-        "bgmID": "#bgm0607",
-        "bgmInfoID": "#info0607",
+        "bgmID": "#bgm0606",
+        "bgmInfoID": "#info0606",
         "weekday": "6",
         "bgmTime": "04:40",
-        "episodeThisWeek": "16",
+        "episodeThisWeek": "17",
         "episodeTotal": "24",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrolbnt0.html",
-        "bili": "http://www.bilibili.com/video/av2622696/",
-        "matong": "http://www.hunantv.com/v/7/109719/f/1722702.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rrojuvlk.html",
+        "bili": "http://www.bilibili.com/video/av2659052/",
+        "matong": "http://www.hunantv.com/v/7/109719/f/1741740.html"
         }
     },
     {
         "titleCHN": "无头骑士异闻录×2 转",
         "titleJPN": "デュラララ!!×2 転",
-        "bgmID": "#bgm0608",
-        "bgmInfoID": "#info0608",
+        "bgmID": "#bgm0607",
+        "bgmInfoID": "#info0607",
         "weekday": "6",
         "bgmTime": "23:30",
         "episodeThisWeek": "04",
