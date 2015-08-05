@@ -361,12 +361,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0304",
         "weekday": "3",
         "bgmTime": "18:00",
-        "episodeThisWeek": "282",
+        "episodeThisWeek": "283",
         "episodeTotal": "???",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/LvH1W9gvD4E.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI5NDY0MTAyOA==.html"
+        "tudou": "http://www.tudou.com/albumplay/92J2xqpSxWY/OE3FMQc4Huw.html",
+        "youku": "http://v.youku.com/v_show/id_XMTMwMTY4MDA2MA==.html"
         }
     },
     {
@@ -376,11 +376,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0305",
         "weekday": "3",
         "bgmTime": "20:55",
-        "episodeThisWeek": "04",
+        "episodeThisWeek": "05",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2648103/",
+        "bili": "http://www.bilibili.com/video/av2686481/",
         }
     },
     {
