@@ -145,15 +145,15 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0710",
         "weekday": "0",
         "bgmTime": "22:00",
-        "episodeThisWeek": "17",
+        "episodeThisWeek": "18",
         "episodeTotal": "24",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrok0l5g.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rro8t9a8.html",
         "bili": "http://www.bilibili.com/video/av2670365/",
-        "letv": "http://www.letv.com/ptv/vplay/23212294.html",
-        "pptv": "http://v.pptv.com/show/y12ZFsGMdbMWlPw.html",
-        "tx": "http://v.qq.com/cover/2/2nqzaniq3tunys1/j0017pk281g.html",
+        "letv": "http://www.letv.com/ptv/vplay/23258761.html",
+        "pptv": "http://v.pptv.com/show/Xw7FQnX44RibCAGg.html",
+        "tx": "http://v.qq.com/cover/2/2nqzaniq3tunys1/j0017d5z98j.html",
         "tudou": "http://www.tudou.com/albumplay/Ko7krCYz4w4/c0fDsjkPDlE.html",
         "youku": "http://v.youku.com/v_show/id_XMTI5OTY1NDc0NA==.html"
         }
