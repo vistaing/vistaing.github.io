@@ -117,11 +117,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0708",
         "weekday": "0",
         "bgmTime": "12:30",
-        "episodeThisWeek": "26",
+        "episodeThisWeek": "27",
         "episodeTotal": "51",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrok1to4.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rro8sgds.html",
         }
     },
     {
