@@ -213,12 +213,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0102",
         "weekday": "1",
         "bgmTime": "17:00",
-        "episodeThisWeek": "18",
+        "episodeThisWeek": "19",
         "episodeTotal": "25",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/XZptOiXSN6Y/fl_8j8GlYQc.html",
-        "youku": "http://v.youku.com/v_show/id_XMTMwMDE4MTIyOA==.html"
+        "tudou": "http://www.tudou.com/albumplay/XZptOiXSN6Y/bV1Nw6X9M0Y.html",
+        "youku": "http://v.youku.com/v_show/id_XMTMwNjE4ODE4OA==.html"
         }
     },
     {
