@@ -154,8 +154,8 @@ var datasource={"bgm1507": [
         "letv": "http://www.letv.com/ptv/vplay/23258761.html",
         "pptv": "http://v.pptv.com/show/Xw7FQnX44RibCAGg.html",
         "tx": "http://v.qq.com/cover/2/2nqzaniq3tunys1/j0017d5z98j.html",
-        "tudou": "http://www.tudou.com/albumplay/Ko7krCYz4w4/c0fDsjkPDlE.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI5OTY1NDc0NA==.html"
+        "tudou": "http://www.tudou.com/albumplay/Ko7krCYz4w4/thUZVoIk4ic.html",
+        "youku": "http://v.youku.com/v_show/id_XMTMwNTQ3NDA4MA==.html"
         }
     },
     {
@@ -165,16 +165,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0711",
         "weekday": "0",
         "bgmTime": "22:30",
-        "episodeThisWeek": "3.5",
+        "episodeThisWeek": "4",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rrok0kqc.html",
-        "bili": "http://www.bilibili.com/video/av2670375/",
-        "letv": "http://www.letv.com/ptv/vplay/23212049.html",
-        "tx": "http://v.qq.com/cover/w/wdp6c3tyxfha0l8/v0017oyvkt5.html",
-        "tudou": "http://www.tudou.com/albumplay/n3RSRsUtHhk/8Awrm0UxskQ.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI5OTU4MDg0NA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rro8tjas.html",
+        "bili": "http://www.bilibili.com/video/av2709193/",
+        "letv": "http://www.letv.com/ptv/vplay/23258432.html",
+        "tx": "http://v.qq.com/cover/w/wdp6c3tyxfha0l8/k0017d0p596.html",
+        "tudou": "http://www.tudou.com/albumplay/n3RSRsUtHhk/SkttF-v1DS8.html",
+        "youku": "http://v.youku.com/v_show/id_XMTMwNTE4OTcxMg==.html"
         }
     },
     {
@@ -198,12 +198,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0101",
         "weekday": "1",
         "bgmTime": "01:00",
-        "episodeThisWeek": "18",
+        "episodeThisWeek": "19",
         "episodeTotal": "25",
         "linklist":
         {
-        "tudou": "http://www.tudou.com/albumplay/5EughhrPa3A/znwzqr1We0s.html",
-        "youku": "http://v.youku.com/v_show/id_XMTI5OTcyNzE0NA==.html"
+        "tudou": "http://www.tudou.com/albumplay/5EughhrPa3A/dPWIhJKQ-ac.html",
+        "youku": "http://v.youku.com/v_show/id_XMTMwNTUxNDAxMg==.html"
         }
     },
     {
