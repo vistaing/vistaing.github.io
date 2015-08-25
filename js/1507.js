@@ -319,7 +319,7 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0301",
         "weekday": "3",
         "bgmTime": "00:30",
-        "episodeThisWeek": "07",
+        "episodeThisWeek": "08",
         "episodeTotal": "12",
         "linklist":
         {
