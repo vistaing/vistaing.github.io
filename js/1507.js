@@ -89,11 +89,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0706",
         "weekday": "0",
         "bgmTime": "11:00",
-        "episodeThisWeek": "43",
+        "episodeThisWeek": "44",
         "episodeTotal": "50",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rro6djc4.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rro4zr2c.html",
         }
     },
     {
@@ -103,11 +103,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0707",
         "weekday": "0",
         "bgmTime": "11:00",
-        "episodeThisWeek": "07",
+        "episodeThisWeek": "08",
         "episodeTotal": "26",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rro6a0g4.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rro4yo5c.html",
         }
     },
     {
@@ -117,11 +117,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0708",
         "weekday": "0",
         "bgmTime": "12:30",
-        "episodeThisWeek": "29",
+        "episodeThisWeek": "30",
         "episodeTotal": "51",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rro6dk3w.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rro4zuzo.html",
         }
     },
     {
