@@ -6,16 +6,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0701",
         "weekday": "0",
         "bgmTime": "00:30",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rro4vq2g.html",
-        "bili": "http://www.bilibili.com/video/av2829751/",
-        "letv": "http://www.letv.com/ptv/vplay/23400457.html",
-        "tx": "http://v.qq.com/cover/k/keh8jx4nea7e5w0/i0017oykoxp.html",
-        "tudou": "http://www.tudou.com/albumplay/tO8jG72LwdY/OUOCTQ51EoM.html",
-        "youku": "http://v.youku.com/v_show/id_XMTMyMjYyMTc0MA==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroejiso.html",
+        "bili": "http://www.bilibili.com/video/av2869588/",
+        "letv": "http://www.letv.com/ptv/vplay/23441207.html",
+        "tx": "http://v.qq.com/cover/k/keh8jx4nea7e5w0/o0017y0eymc.html",
+        "tudou": "http://www.tudou.com/albumplay/tO8jG72LwdY/yE-Pl8Y5H80.html",
+        "youku": "http://v.youku.com/v_show/id_XMTMyODI4NTYxNg==.html"
         }
     },
     {
@@ -25,11 +25,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0702",
         "weekday": "0",
         "bgmTime": "01:00",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2829754/"
+        "bili": "http://www.bilibili.com/video/av2869591/"
         }
     },
     {
@@ -39,11 +39,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0703",
         "weekday": "0",
         "bgmTime": "02:00",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "??",
         "linklist":
         {
-        "bili": "http://www.bilibili.com/video/av2829761/"
+        "bili": "http://www.bilibili.com/video/av2869608/"
         }
     },
     {
@@ -53,18 +53,18 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0704",
         "weekday": "0",
         "bgmTime": "03:30",
-        "episodeThisWeek": "09",
+        "episodeThisWeek": "10",
         "episodeTotal": "12",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rro4vsy8.html",
-        "bili": "http://www.bilibili.com/video/av2829762/",
-        "letv": "http://www.letv.com/ptv/vplay/23401180.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rroejrkg.html",
+        "bili": "http://www.bilibili.com/video/av2869612/",
+        "letv": "http://www.letv.com/ptv/vplay/23441444.html",
         "matong": "http://www.hunantv.com/v/7/157293/f/1763778.html",
-        "pptv": "http://v.pptv.com/show/055W1aibqk9E0sho.html",
-        "tx": "http://v.qq.com/cover/e/ekcyxmd6r13mh6o/b0017fnpfsy.html",
+        "pptv": "http://v.pptv.com/show/Czia4Nw1MNXPWVLw.html",
+        "tx": "http://v.qq.com/cover/e/ekcyxmd6r13mh6o/n0017ksj4zh.html",
         "tudou": "http://www.tudou.com/albumplay/8nSAQ0J0quI.html",
-        "youku": "http://v.youku.com/v_show/id_XMTMyMjYyNTAwOA==.html"
+        "youku": "http://v.youku.com/v_show/id_XMTMyODI5OTAwMA==.html"
         }
     },
     {
@@ -74,12 +74,12 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0705",
         "weekday": "0",
         "bgmTime": "04:30",
-        "episodeThisWeek": "08",
+        "episodeThisWeek": "09",
         "episodeTotal": "??",
         "linklist":
         {
         "tudou": "http://www.tudou.com/albumplay/wk_5UB9cfe4.html",
-        "youku": "http://v.youku.com/v_show/id_XMTMyMjUwMTY2OA==.html"
+        "youku": "http://v.youku.com/v_show/id_XMTMyODA4MTI0NA==.html"
         }
     },
     {
@@ -89,11 +89,11 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0706",
         "weekday": "0",
         "bgmTime": "11:00",
-        "episodeThisWeek": "44",
+        "episodeThisWeek": "45",
         "episodeTotal": "50",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rro4zr2c.html",
+        "iqiyi": "http://www.iqiyi.com/v_19rro57slg.html",
         }
     },
     {
@@ -723,7 +723,7 @@ var datasource={"bgm1507": [
         {
         "iqiyi": "http://www.iqiyi.com/v_19rroeg2ws.html",
         "bili": "http://www.bilibili.com/video/av2862155/",
-        "matong": "http://www.hunantv.com/v/7/109719/f/1763210.html"
+        "matong": "http://www.hunantv.com/v/7/109719/f/1767346.html"
         }
     },
     {
