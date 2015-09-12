@@ -6,16 +6,16 @@ var datasource={"bgm1507": [
         "bgmInfoID": "#info0701",
         "weekday": "0",
         "bgmTime": "00:30",
-        "episodeThisWeek": "10",
+        "episodeThisWeek": "11",
         "episodeTotal": "13",
         "linklist":
         {
-        "iqiyi": "http://www.iqiyi.com/v_19rroejiso.html",
-        "bili": "http://www.bilibili.com/video/av2869588/",
-        "letv": "http://www.letv.com/ptv/vplay/23441207.html",
-        "tx": "http://v.qq.com/cover/k/keh8jx4nea7e5w0/o0017y0eymc.html",
-        "tudou": "http://www.tudou.com/albumplay/tO8jG72LwdY/yE-Pl8Y5H80.html",
-        "youku": "http://v.youku.com/v_show/id_XMTMyODI4NTYxNg==.html"
+        "iqiyi": "http://www.iqiyi.com/v_19rroccaag.html",
+        "bili": "http://www.bilibili.com/video/av2899478/",
+        "letv": "http://www.letv.com/ptv/vplay/23491901.html",
+        "tx": "http://v.qq.com/cover/k/keh8jx4nea7e5w0/h0017jcmbyf.html",
+        "tudou": "http://www.tudou.com/albumplay/tO8jG72LwdY/vJxFhTu79No.html",
+        "youku": "http://v.youku.com/v_show/id_XMTMzNDE5MTkwNA==.html"
         }
     },
     {
